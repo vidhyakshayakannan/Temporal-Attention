@@ -1,0 +1,2209 @@
+Gap,Tone,tGap,Key,RT,source_file
+440,1,440,M,523,Navya1.1.csv
+280,1,280,M,1251,Navya1.1.csv
+340,2,340,C,1440,Navya1.1.csv
+240,1,240,M,642,Navya1.1.csv
+220,1,220,M,688,Navya1.1.csv
+280,2,280,C,456,Navya1.1.csv
+360,2,360,C,622,Navya1.1.csv
+360,1,360,M,709,Navya1.1.csv
+500,1,500,M,1074,Navya1.1.csv
+430,2,430,M,945,Navya1.1.csv
+330,1,330,M,678,Navya1.1.csv
+220,2,220,C,558,Navya1.1.csv
+460,1,460,C,500,Navya1.1.csv
+290,1,290,M,620,Navya1.1.csv
+180,2,180,C,719,Navya1.1.csv
+170,2,170,M,523,Navya1.1.csv
+60,1,60,M,794,Navya1.1.csv
+190,2,190,M,1066,Navya1.1.csv
+350,1,350,C,450,Navya1.1.csv
+450,1,450,C,544,Navya1.1.csv
+310,2,310,M,440,Navya1.1.csv
+130,2,130,C,680,Navya1.1.csv
+190,1,190,M,1024,Navya1.1.csv
+240,2,240,M,557,Navya1.1.csv
+480,1,480,M,6,Navya1.1.csv
+310,1,310,C,190,Navya1.1.csv
+200,2,200,M,195,Navya1.1.csv
+390,2,390,M,270,Navya1.1.csv
+200,1,200,C,367,Navya1.1.csv
+500,2,500,C,671,Navya1.1.csv
+370,1,370,C,631,Navya1.1.csv
+120,2,120,C,729,Navya1.1.csv
+270,1,270,M,481,Navya1.1.csv
+160,1,160,M,425,Navya1.1.csv
+430,1,430,M,386,Navya1.1.csv
+110,1,110,C,433,Navya1.1.csv
+80,2,80,M,823,Navya1.1.csv
+470,2,470,C,565,Navya1.1.csv
+440,2,440,M,452,Navya1.1.csv
+100,1,100,M,511,Navya1.1.csv
+230,1,230,M,499,Navya1.1.csv
+260,2,260,C,326,Navya1.1.csv
+480,2,480,M,124,Navya1.1.csv
+90,1,90,C,551,Navya1.1.csv
+130,1,130,M,470,Navya1.1.csv
+270,2,270,C,716,Navya1.1.csv
+300,1,300,C,438,Navya1.1.csv
+150,1,150,M,428,Navya1.1.csv
+400,2,400,M,415,Navya1.1.csv
+180,1,180,C,722,Navya1.1.csv
+170,1,170,M,320,Navya1.1.csv
+100,2,100,M,397,Navya1.1.csv
+80,1,80,M,786,Navya1.1.csv
+290,2,290,M,354,Navya1.1.csv
+250,2,250,C,411,Navya1.1.csv
+470,1,470,C,728,Navya1.1.csv
+390,1,390,C,496,Navya1.1.csv
+260,1,260,M,510,Navya1.1.csv
+250,1,250,M,889,Navya1.1.csv
+370,2,370,M,655,Navya1.1.csv
+410,1,410,M,860,Navya1.1.csv
+210,2,210,C,774,Navya1.1.csv
+460,2,460,C,468,Navya1.1.csv
+90,2,90,M,1448,Navya1.1.csv
+400,1,400,M,972,Navya1.1.csv
+350,2,350,C,459,Navya1.1.csv
+50,1,50,M,830,Navya1.1.csv
+300,2,300,C,1949,Navya1.1.csv
+380,2,380,M,1946,Navya1.1.csv
+330,2,330,C,1615,Navya1.1.csv
+150,2,150,C,1260,Navya1.1.csv
+120,1,120,M,932,Navya1.1.csv
+70,1,70,M,850,Navya1.1.csv
+70,2,70,M,890,Navya1.1.csv
+160,2,160,M,1201,Navya1.1.csv
+450,2,450,C,2127,Navya1.1.csv
+320,1,320,M,821,Navya1.1.csv
+140,1,140,C,524,Navya1.1.csv
+60,2,60,C,785,Navya1.1.csv
+140,2,140,M,451,Navya1.1.csv
+110,2,110,M,934,Navya1.1.csv
+50,2,50,C,433,Navya1.1.csv
+320,2,320,C,902,Navya1.1.csv
+340,1,340,C,667,Navya1.1.csv
+380,1,380,M,610,Navya1.1.csv
+420,2,420,M,552,Navya1.1.csv
+230,2,230,C,610,Navya1.1.csv
+410,2,410,M,1303,Navya1.1.csv
+490,2,490,C,460,Navya1.1.csv
+210,1,210,M,989,Navya1.1.csv
+490,1,490,M,742,Navya1.1.csv
+420,1,420,C,731,Navya1.1.csv
+50,2,50,M,1287,Navya1.2.csv
+460,1,460,M,887,Navya1.2.csv
+440,1,440,M,1937,Navya1.2.csv
+70,1,70,M,970,Navya1.2.csv
+230,1,230,C,7617,Navya1.2.csv
+480,2,480,M,826,Navya1.2.csv
+250,1,250,C,921,Navya1.2.csv
+440,2,440,C,1598,Navya1.2.csv
+280,2,280,M,1151,Navya1.2.csv
+370,1,370,M,512,Navya1.2.csv
+460,2,460,M,1411,Navya1.2.csv
+250,2,250,C,492,Navya1.2.csv
+110,2,110,M,578,Navya1.2.csv
+240,1,240,M,606,Navya1.2.csv
+260,1,260,C,389,Navya1.2.csv
+450,2,450,C,501,Navya1.2.csv
+270,2,270,C,648,Navya1.2.csv
+150,2,150,C,1444,Navya1.2.csv
+200,1,200,M,355,Navya1.2.csv
+490,1,490,M,582,Navya1.2.csv
+230,2,230,M,639,Navya1.2.csv
+330,1,330,C,1196,Navya1.2.csv
+490,2,490,C,1249,Navya1.2.csv
+60,1,60,M,589,Navya1.2.csv
+120,1,120,M,575,Navya1.2.csv
+260,2,260,M,578,Navya1.2.csv
+500,2,500,C,544,Navya1.2.csv
+470,1,470,C,569,Navya1.2.csv
+310,1,310,C,760,Navya1.2.csv
+410,1,410,C,646,Navya1.2.csv
+340,2,340,M,652,Navya1.2.csv
+80,1,80,M,412,Navya1.2.csv
+170,2,170,M,387,Navya1.2.csv
+50,1,50,M,407,Navya1.2.csv
+130,1,130,M,404,Navya1.2.csv
+70,2,70,C,708,Navya1.2.csv
+160,1,160,C,830,Navya1.2.csv
+200,2,200,M,664,Navya1.2.csv
+220,1,220,C,442,Navya1.2.csv
+150,1,150,C,813,Navya1.2.csv
+450,1,450,C,1087,Navya1.2.csv
+170,1,170,M,453,Navya1.2.csv
+100,2,100,M,467,Navya1.2.csv
+390,1,390,M,520,Navya1.2.csv
+180,1,180,C,520,Navya1.2.csv
+380,1,380,M,1163,Navya1.2.csv
+400,2,400,M,581,Navya1.2.csv
+500,1,500,M,555,Navya1.2.csv
+470,2,470,C,573,Navya1.2.csv
+240,2,240,M,524,Navya1.2.csv
+420,1,420,C,1448,Navya1.2.csv
+210,2,210,M,649,Navya1.2.csv
+90,1,90,M,464,Navya1.2.csv
+60,2,60,M,481,Navya1.2.csv
+110,1,110,M,636,Navya1.2.csv
+160,2,160,M,675,Navya1.2.csv
+390,2,390,C,520,Navya1.2.csv
+210,1,210,C,638,Navya1.2.csv
+480,1,480,C,569,Navya1.2.csv
+380,2,380,C,691,Navya1.2.csv
+410,2,410,C,784,Navya1.2.csv
+100,1,100,M,568,Navya1.2.csv
+220,2,220,M,765,Navya1.2.csv
+140,1,140,C,702,Navya1.2.csv
+350,2,350,C,707,Navya1.2.csv
+320,2,320,C,1225,Navya1.2.csv
+140,2,140,M,627,Navya1.2.csv
+130,2,130,M,407,Navya1.2.csv
+430,2,430,M,578,Navya1.2.csv
+400,1,400,M,474,Navya1.2.csv
+270,1,270,C,1856,Navya1.2.csv
+420,2,420,C,529,Navya1.2.csv
+430,1,430,M,469,Navya1.2.csv
+290,1,290,C,375,Navya1.2.csv
+190,1,190,M,744,Navya1.2.csv
+180,2,180,M,359,Navya1.2.csv
+80,2,80,M,529,Navya1.2.csv
+290,2,290,M,539,Navya1.2.csv
+360,2,360,M,1274,Navya1.2.csv
+370,2,370,C,603,Navya1.2.csv
+300,2,300,C,531,Navya1.2.csv
+280,1,280,C,831,Navya1.2.csv
+310,2,310,C,611,Navya1.2.csv
+360,1,360,C,719,Navya1.2.csv
+330,2,330,C,603,Navya1.2.csv
+340,1,340,M,569,Navya1.2.csv
+190,2,190,M,694,Navya1.2.csv
+120,2,120,C,373,Navya1.2.csv
+90,2,90,C,457,Navya1.2.csv
+300,1,300,M,533,Navya1.2.csv
+350,1,350,C,577,Navya1.2.csv
+320,1,320,C,411,Navya1.2.csv
+460,1,460,M,685,Navya1.3.csv
+460,2,460,C,571,Navya1.3.csv
+50,1,50,M,548,Navya1.3.csv
+400,1,400,M,502,Navya1.3.csv
+490,2,490,C,578,Navya1.3.csv
+380,2,380,M,584,Navya1.3.csv
+470,2,470,C,455,Navya1.3.csv
+350,1,350,M,481,Navya1.3.csv
+250,1,250,M,723,Navya1.3.csv
+60,2,60,C,638,Navya1.3.csv
+330,2,330,M,517,Navya1.3.csv
+160,2,160,M,480,Navya1.3.csv
+270,2,270,M,693,Navya1.3.csv
+490,1,490,M,559,Navya1.3.csv
+310,2,310,M,391,Navya1.3.csv
+180,2,180,C,814,Navya1.3.csv
+160,1,160,M,687,Navya1.3.csv
+420,2,420,C,597,Navya1.3.csv
+170,2,170,C,700,Navya1.3.csv
+360,1,360,M,700,Navya1.3.csv
+100,1,100,M,524,Navya1.3.csv
+260,2,260,C,683,Navya1.3.csv
+410,2,410,C,503,Navya1.3.csv
+270,1,270,M,716,Navya1.3.csv
+60,1,60,M,789,Navya1.3.csv
+280,1,280,C,774,Navya1.3.csv
+370,1,370,M,628,Navya1.3.csv
+310,1,310,M,1082,Navya1.3.csv
+240,2,240,C,677,Navya1.3.csv
+320,2,320,C,716,Navya1.3.csv
+410,1,410,M,664,Navya1.3.csv
+200,1,200,M,491,Navya1.3.csv
+140,2,140,C,878,Navya1.3.csv
+440,2,440,C,463,Navya1.3.csv
+400,2,400,C,482,Navya1.3.csv
+90,2,90,C,890,Navya1.3.csv
+70,2,70,C,649,Navya1.3.csv
+120,2,120,C,605,Navya1.3.csv
+230,1,230,M,496,Navya1.3.csv
+130,1,130,M,614,Navya1.3.csv
+440,1,440,M,528,Navya1.3.csv
+430,2,430,C,614,Navya1.3.csv
+390,1,390,M,366,Navya1.3.csv
+190,2,190,C,685,Navya1.3.csv
+340,1,340,M,573,Navya1.3.csv
+150,1,150,M,630,Navya1.3.csv
+290,2,290,M,533,Navya1.3.csv
+220,2,220,C,589,Navya1.3.csv
+150,2,150,M,440,Navya1.3.csv
+450,2,450,C,927,Navya1.3.csv
+80,2,80,M,634,Navya1.3.csv
+130,2,130,C,738,Navya1.3.csv
+480,2,480,C,475,Navya1.3.csv
+100,2,100,C,808,Navya1.3.csv
+300,1,300,M,480,Navya1.3.csv
+340,2,340,C,496,Navya1.3.csv
+500,1,500,C,443,Navya1.3.csv
+190,1,190,M,475,Navya1.3.csv
+240,1,240,M,437,Navya1.3.csv
+360,2,360,C,640,Navya1.3.csv
+290,1,290,M,693,Navya1.3.csv
+120,1,120,M,561,Navya1.3.csv
+450,1,450,M,588,Navya1.3.csv
+50,2,50,C,701,Navya1.3.csv
+170,1,170,M,704,Navya1.3.csv
+300,2,300,C,779,Navya1.3.csv
+180,1,180,M,507,Navya1.3.csv
+280,2,280,C,537,Navya1.3.csv
+210,1,210,M,364,Navya1.3.csv
+250,2,250,C,607,Navya1.3.csv
+500,2,500,C,518,Navya1.3.csv
+70,1,70,M,709,Navya1.3.csv
+390,2,390,C,445,Navya1.3.csv
+200,2,200,M,1109,Navya1.3.csv
+350,2,350,C,629,Navya1.3.csv
+110,2,110,M,921,Navya1.3.csv
+230,2,230,M,1319,Navya1.3.csv
+110,1,110,M,736,Navya1.3.csv
+210,2,210,M,730,Navya1.3.csv
+470,1,470,M,668,Navya1.3.csv
+260,1,260,M,539,Navya1.3.csv
+370,2,370,C,870,Navya1.3.csv
+380,1,380,M,455,Navya1.3.csv
+320,1,320,M,625,Navya1.3.csv
+330,1,330,M,710,Navya1.3.csv
+90,1,90,M,574,Navya1.3.csv
+480,1,480,M,496,Navya1.3.csv
+80,1,80,M,693,Navya1.3.csv
+140,1,140,M,558,Navya1.3.csv
+420,1,420,M,580,Navya1.3.csv
+430,1,430,M,546,Navya1.3.csv
+220,1,220,M,509,Navya1.3.csv
+220,1,220,M,924,Manaswini1.1.csv
+450,1,450,C,2307,Manaswini1.1.csv
+300,1,300,M,1089,Manaswini1.1.csv
+250,1,250,M,897,Manaswini1.1.csv
+120,1,120,C,1086,Manaswini1.1.csv
+190,1,190,M,838,Manaswini1.1.csv
+450,2,450,C,1442,Manaswini1.1.csv
+340,1,340,M,991,Manaswini1.1.csv
+80,2,80,C,2228,Manaswini1.1.csv
+500,1,500,M,1002,Manaswini1.1.csv
+460,1,460,C,1442,Manaswini1.1.csv
+200,2,200,M,1473,Manaswini1.1.csv
+440,1,440,M,929,Manaswini1.1.csv
+210,1,210,C,1489,Manaswini1.1.csv
+270,1,270,M,946,Manaswini1.1.csv
+410,2,410,C,1325,Manaswini1.1.csv
+150,1,150,M,1194,Manaswini1.1.csv
+290,2,290,C,1125,Manaswini1.1.csv
+470,2,470,C,920,Manaswini1.1.csv
+90,2,90,M,1723,Manaswini1.1.csv
+100,1,100,C,1245,Manaswini1.1.csv
+500,2,500,M,1114,Manaswini1.1.csv
+80,1,80,M,1017,Manaswini1.1.csv
+390,1,390,C,1006,Manaswini1.1.csv
+490,1,490,M,876,Manaswini1.1.csv
+290,1,290,C,1368,Manaswini1.1.csv
+190,2,190,M,943,Manaswini1.1.csv
+440,2,440,M,3097,Manaswini1.1.csv
+360,1,360,M,1082,Manaswini1.1.csv
+470,1,470,M,1464,Manaswini1.1.csv
+140,1,140,C,2736,Manaswini1.1.csv
+370,2,370,C,1138,Manaswini1.1.csv
+330,2,330,C,1418,Manaswini1.1.csv
+130,2,130,M,1300,Manaswini1.1.csv
+420,2,420,C,11915,Manaswini1.1.csv
+320,1,320,M,1581,Manaswini1.1.csv
+140,2,140,M,2469,Manaswini1.1.csv
+480,2,480,C,944,Manaswini1.1.csv
+310,1,310,C,3724,Manaswini1.1.csv
+60,2,60,M,1075,Manaswini1.1.csv
+430,1,430,M,841,Manaswini1.1.csv
+370,1,370,M,2579,Manaswini1.1.csv
+300,2,300,C,2056,Manaswini1.1.csv
+200,1,200,M,1229,Manaswini1.1.csv
+90,1,90,M,996,Manaswini1.1.csv
+100,2,100,C,2912,Manaswini1.1.csv
+410,1,410,M,959,Manaswini1.1.csv
+120,2,120,C,1270,Manaswini1.1.csv
+250,2,250,C,1304,Manaswini1.1.csv
+60,1,60,M,911,Manaswini1.1.csv
+400,2,400,C,1386,Manaswini1.1.csv
+150,2,150,C,1711,Manaswini1.1.csv
+260,1,260,M,920,Manaswini1.1.csv
+480,1,480,M,1161,Manaswini1.1.csv
+110,1,110,C,3361,Manaswini1.1.csv
+330,1,330,M,1001,Manaswini1.1.csv
+310,2,310,C,845,Manaswini1.1.csv
+320,2,320,C,1162,Manaswini1.1.csv
+350,2,350,M,1026,Manaswini1.1.csv
+70,1,70,M,1000,Manaswini1.1.csv
+460,2,460,M,948,Manaswini1.1.csv
+260,2,260,M,1449,Manaswini1.1.csv
+160,2,160,C,861,Manaswini1.1.csv
+240,2,240,C,803,Manaswini1.1.csv
+170,2,170,M,1095,Manaswini1.1.csv
+70,2,70,M,1048,Manaswini1.1.csv
+230,2,230,C,1000,Manaswini1.1.csv
+210,2,210,M,892,Manaswini1.1.csv
+180,1,180,M,889,Manaswini1.1.csv
+240,1,240,M,1154,Manaswini1.1.csv
+420,1,420,M,40473,Manaswini1.1.csv
+230,1,230,M,805,Manaswini1.1.csv
+280,1,280,M,875,Manaswini1.1.csv
+380,1,380,C,922,Manaswini1.1.csv
+130,1,130,C,984,Manaswini1.1.csv
+110,2,110,M,1120,Manaswini1.1.csv
+490,2,490,M,1112,Manaswini1.1.csv
+360,2,360,C,1231,Manaswini1.1.csv
+400,1,400,C,1049,Manaswini1.1.csv
+340,2,340,M,1139,Manaswini1.1.csv
+430,2,430,M,970,Manaswini1.1.csv
+50,2,50,M,1217,Manaswini1.1.csv
+390,2,390,C,839,Manaswini1.1.csv
+50,1,50,M,1070,Manaswini1.1.csv
+350,1,350,C,823,Manaswini1.1.csv
+270,2,270,C,850,Manaswini1.1.csv
+380,2,380,C,866,Manaswini1.1.csv
+220,2,220,M,948,Manaswini1.1.csv
+280,2,280,C,856,Manaswini1.1.csv
+170,1,170,M,1006,Manaswini1.1.csv
+180,2,180,C,818,Manaswini1.1.csv
+160,1,160,M,1454,Manaswini1.1.csv
+220,1,220,M,134038,Manaswini1.2.csv
+450,1,450,M,926,Manaswini1.2.csv
+300,1,300,C,910,Manaswini1.2.csv
+250,1,250,C,1164,Manaswini1.2.csv
+120,1,120,M,834,Manaswini1.2.csv
+190,1,190,C,831,Manaswini1.2.csv
+450,2,450,C,843,Manaswini1.2.csv
+340,1,340,C,868,Manaswini1.2.csv
+80,2,80,M,864,Manaswini1.2.csv
+500,1,500,M,930,Manaswini1.2.csv
+460,1,460,C,864,Manaswini1.2.csv
+200,2,200,M,8,Manaswini1.2.csv
+440,1,440,M,1156,Manaswini1.2.csv
+210,1,210,C,969,Manaswini1.2.csv
+270,1,270,M,869,Manaswini1.2.csv
+410,2,410,M,1237,Manaswini1.2.csv
+150,1,150,C,1001,Manaswini1.2.csv
+290,2,290,C,830,Manaswini1.2.csv
+470,2,470,M,1019,Manaswini1.2.csv
+90,2,90,M,1617,Manaswini1.2.csv
+100,1,100,M,1294,Manaswini1.2.csv
+500,2,500,C,831,Manaswini1.2.csv
+80,1,80,M,1243,Manaswini1.2.csv
+390,1,390,C,1162,Manaswini1.2.csv
+490,1,490,C,855,Manaswini1.2.csv
+290,1,290,C,920,Manaswini1.2.csv
+190,2,190,C,1047,Manaswini1.2.csv
+440,2,440,C,1000,Manaswini1.2.csv
+360,1,360,C,892,Manaswini1.2.csv
+470,1,470,M,904,Manaswini1.2.csv
+140,1,140,M,951,Manaswini1.2.csv
+370,2,370,M,1439,Manaswini1.2.csv
+330,2,330,M,1763,Manaswini1.2.csv
+130,2,130,C,2264,Manaswini1.2.csv
+420,2,420,C,793,Manaswini1.2.csv
+320,1,320,C,897,Manaswini1.2.csv
+140,2,140,M,880,Manaswini1.2.csv
+480,2,480,M,2667,Manaswini1.2.csv
+310,1,310,C,1609,Manaswini1.2.csv
+60,2,60,M,1280,Manaswini1.2.csv
+430,1,430,C,2456,Manaswini1.2.csv
+370,1,370,C,881,Manaswini1.2.csv
+300,2,300,C,1618,Manaswini1.2.csv
+200,1,200,M,1052,Manaswini1.2.csv
+90,1,90,M,1056,Manaswini1.2.csv
+100,2,100,M,1241,Manaswini1.2.csv
+410,1,410,M,1491,Manaswini1.2.csv
+120,2,120,C,923,Manaswini1.2.csv
+250,2,250,C,776,Manaswini1.2.csv
+60,1,60,M,977,Manaswini1.2.csv
+400,2,400,C,855,Manaswini1.2.csv
+150,2,150,M,918,Manaswini1.2.csv
+260,1,260,C,2911,Manaswini1.2.csv
+480,1,480,M,1144,Manaswini1.2.csv
+110,1,110,M,947,Manaswini1.2.csv
+330,1,330,M,875,Manaswini1.2.csv
+310,2,310,M,1503,Manaswini1.2.csv
+320,2,320,C,937,Manaswini1.2.csv
+350,2,350,C,876,Manaswini1.2.csv
+70,1,70,M,1149,Manaswini1.2.csv
+460,2,460,M,1241,Manaswini1.2.csv
+260,2,260,M,1272,Manaswini1.2.csv
+160,2,160,M,1170,Manaswini1.2.csv
+240,2,240,C,908,Manaswini1.2.csv
+170,2,170,C,1616,Manaswini1.2.csv
+70,2,70,M,1017,Manaswini1.2.csv
+230,2,230,M,1014,Manaswini1.2.csv
+210,2,210,M,1610,Manaswini1.2.csv
+180,1,180,M,1122,Manaswini1.2.csv
+240,1,240,C,1954,Manaswini1.2.csv
+420,1,420,M,1108,Manaswini1.2.csv
+230,1,230,M,1786,Manaswini1.2.csv
+280,1,280,M,2048,Manaswini1.2.csv
+380,1,380,C,985,Manaswini1.2.csv
+130,1,130,M,1087,Manaswini1.2.csv
+110,2,110,C,993,Manaswini1.2.csv
+490,2,490,C,984,Manaswini1.2.csv
+360,2,360,M,1260,Manaswini1.2.csv
+400,1,400,M,808,Manaswini1.2.csv
+340,2,340,C,1280,Manaswini1.2.csv
+430,2,430,M,1033,Manaswini1.2.csv
+50,2,50,M,1055,Manaswini1.2.csv
+390,2,390,M,1115,Manaswini1.2.csv
+50,1,50,M,1075,Manaswini1.2.csv
+350,1,350,M,1149,Manaswini1.2.csv
+270,2,270,C,866,Manaswini1.2.csv
+380,2,380,C,896,Manaswini1.2.csv
+220,2,220,C,1650,Manaswini1.2.csv
+280,2,280,C,2294,Manaswini1.2.csv
+170,1,170,M,814,Manaswini1.2.csv
+180,2,180,C,1397,Manaswini1.2.csv
+160,1,160,M,1193,Manaswini1.2.csv
+220,1,220,M,1094,Manaswini1.3.csv
+450,1,450,C,862,Manaswini1.3.csv
+300,1,300,C,1142,Manaswini1.3.csv
+250,1,250,M,901,Manaswini1.3.csv
+120,1,120,M,907,Manaswini1.3.csv
+190,1,190,C,1104,Manaswini1.3.csv
+450,2,450,C,976,Manaswini1.3.csv
+340,1,340,M,1118,Manaswini1.3.csv
+80,2,80,M,864,Manaswini1.3.csv
+500,1,500,C,1088,Manaswini1.3.csv
+460,1,460,C,1441,Manaswini1.3.csv
+200,2,200,C,1066,Manaswini1.3.csv
+440,1,440,M,1143,Manaswini1.3.csv
+210,1,210,M,1068,Manaswini1.3.csv
+270,1,270,M,2062,Manaswini1.3.csv
+410,2,410,C,828,Manaswini1.3.csv
+150,1,150,M,1066,Manaswini1.3.csv
+290,2,290,C,1237,Manaswini1.3.csv
+470,2,470,C,941,Manaswini1.3.csv
+90,2,90,M,917,Manaswini1.3.csv
+100,1,100,M,1187,Manaswini1.3.csv
+500,2,500,C,812,Manaswini1.3.csv
+80,1,80,M,905,Manaswini1.3.csv
+390,1,390,C,1843,Manaswini1.3.csv
+490,1,490,M,2457,Manaswini1.3.csv
+290,1,290,M,1183,Manaswini1.3.csv
+190,2,190,C,1066,Manaswini1.3.csv
+440,2,440,C,1221,Manaswini1.3.csv
+360,1,360,C,2502,Manaswini1.3.csv
+470,1,470,M,2659,Manaswini1.3.csv
+140,1,140,M,1425,Manaswini1.3.csv
+370,2,370,C,929,Manaswini1.3.csv
+330,2,330,C,930,Manaswini1.3.csv
+130,2,130,M,3041,Manaswini1.3.csv
+420,2,420,C,1592,Manaswini1.3.csv
+320,1,320,M,2265,Manaswini1.3.csv
+140,2,140,C,1115,Manaswini1.3.csv
+480,2,480,C,897,Manaswini1.3.csv
+310,1,310,C,1767,Manaswini1.3.csv
+60,2,60,M,1390,Manaswini1.3.csv
+430,1,430,M,1243,Manaswini1.3.csv
+370,1,370,M,2272,Manaswini1.3.csv
+300,2,300,C,1152,Manaswini1.3.csv
+200,1,200,C,901,Manaswini1.3.csv
+90,1,90,M,1204,Manaswini1.3.csv
+100,2,100,C,1419,Manaswini1.3.csv
+410,1,410,M,873,Manaswini1.3.csv
+120,2,120,C,990,Manaswini1.3.csv
+250,2,250,M,1157,Manaswini1.3.csv
+60,1,60,M,970,Manaswini1.3.csv
+400,2,400,C,830,Manaswini1.3.csv
+150,2,150,C,932,Manaswini1.3.csv
+260,1,260,M,1014,Manaswini1.3.csv
+480,1,480,M,961,Manaswini1.3.csv
+110,1,110,M,918,Manaswini1.3.csv
+330,1,330,M,1199,Manaswini1.3.csv
+310,2,310,C,1202,Manaswini1.3.csv
+320,2,320,C,805,Manaswini1.3.csv
+350,2,350,M,968,Manaswini1.3.csv
+70,1,70,M,997,Manaswini1.3.csv
+460,2,460,C,863,Manaswini1.3.csv
+260,2,260,C,2112,Manaswini1.3.csv
+160,2,160,M,2553,Manaswini1.3.csv
+240,2,240,M,2520,Manaswini1.3.csv
+170,2,170,M,3969,Manaswini1.3.csv
+70,2,70,M,1470,Manaswini1.3.csv
+230,2,230,C,844,Manaswini1.3.csv
+210,2,210,C,1044,Manaswini1.3.csv
+180,1,180,M,1102,Manaswini1.3.csv
+240,1,240,M,1035,Manaswini1.3.csv
+420,1,420,M,1037,Manaswini1.3.csv
+230,1,230,M,1253,Manaswini1.3.csv
+280,1,280,M,2415,Manaswini1.3.csv
+380,1,380,M,1513,Manaswini1.3.csv
+130,1,130,M,1356,Manaswini1.3.csv
+110,2,110,C,1116,Manaswini1.3.csv
+490,2,490,C,788,Manaswini1.3.csv
+360,2,360,M,1008,Manaswini1.3.csv
+400,1,400,M,938,Manaswini1.3.csv
+340,2,340,C,1614,Manaswini1.3.csv
+430,2,430,C,884,Manaswini1.3.csv
+50,2,50,C,1483,Manaswini1.3.csv
+390,2,390,C,3137,Manaswini1.3.csv
+50,1,50,M,793,Manaswini1.3.csv
+350,1,350,M,836,Manaswini1.3.csv
+270,2,270,C,1625,Manaswini1.3.csv
+380,2,380,M,1528,Manaswini1.3.csv
+220,2,220,M,1109,Manaswini1.3.csv
+280,2,280,M,1088,Manaswini1.3.csv
+170,1,170,M,1284,Manaswini1.3.csv
+180,2,180,C,835,Manaswini1.3.csv
+160,1,160,M,2195,Manaswini1.3.csv
+320,1,320,M,517,Mahalakshmi1.3.csv
+400,1,400,M,435,Mahalakshmi1.3.csv
+470,2,470,C,615,Mahalakshmi1.3.csv
+80,1,80,M,611,Mahalakshmi1.3.csv
+260,2,260,C,730,Mahalakshmi1.3.csv
+250,2,250,C,592,Mahalakshmi1.3.csv
+440,2,440,C,654,Mahalakshmi1.3.csv
+330,1,330,M,484,Mahalakshmi1.3.csv
+130,1,130,M,525,Mahalakshmi1.3.csv
+360,1,360,C,740,Mahalakshmi1.3.csv
+460,2,460,C,723,Mahalakshmi1.3.csv
+90,2,90,C,564,Mahalakshmi1.3.csv
+100,1,100,M,533,Mahalakshmi1.3.csv
+380,2,380,C,515,Mahalakshmi1.3.csv
+450,2,450,C,449,Mahalakshmi1.3.csv
+440,1,440,M,595,Mahalakshmi1.3.csv
+330,2,330,C,708,Mahalakshmi1.3.csv
+360,2,360,C,579,Mahalakshmi1.3.csv
+420,2,420,C,649,Mahalakshmi1.3.csv
+230,2,230,C,666,Mahalakshmi1.3.csv
+70,1,70,M,622,Mahalakshmi1.3.csv
+190,2,190,C,888,Mahalakshmi1.3.csv
+210,2,210,C,779,Mahalakshmi1.3.csv
+480,2,480,C,529,Mahalakshmi1.3.csv
+150,2,150,C,610,Mahalakshmi1.3.csv
+410,2,410,C,479,Mahalakshmi1.3.csv
+500,1,500,M,559,Mahalakshmi1.3.csv
+270,2,270,C,847,Mahalakshmi1.3.csv
+350,2,350,C,499,Mahalakshmi1.3.csv
+390,2,390,C,436,Mahalakshmi1.3.csv
+470,1,470,M,555,Mahalakshmi1.3.csv
+110,1,110,M,633,Mahalakshmi1.3.csv
+230,1,230,M,582,Mahalakshmi1.3.csv
+270,1,270,M,608,Mahalakshmi1.3.csv
+400,2,400,C,492,Mahalakshmi1.3.csv
+290,2,290,C,555,Mahalakshmi1.3.csv
+70,2,70,C,684,Mahalakshmi1.3.csv
+280,2,280,C,507,Mahalakshmi1.3.csv
+350,1,350,M,580,Mahalakshmi1.3.csv
+250,1,250,M,472,Mahalakshmi1.3.csv
+140,1,140,M,457,Mahalakshmi1.3.csv
+190,1,190,M,597,Mahalakshmi1.3.csv
+490,2,490,C,480,Mahalakshmi1.3.csv
+60,2,60,C,502,Mahalakshmi1.3.csv
+390,1,390,M,554,Mahalakshmi1.3.csv
+370,1,370,M,723,Mahalakshmi1.3.csv
+50,2,50,C,517,Mahalakshmi1.3.csv
+50,1,50,M,645,Mahalakshmi1.3.csv
+130,2,130,M,1756,Mahalakshmi1.3.csv
+220,1,220,M,555,Mahalakshmi1.3.csv
+260,1,260,M,540,Mahalakshmi1.3.csv
+450,1,450,M,621,Mahalakshmi1.3.csv
+160,1,160,M,711,Mahalakshmi1.3.csv
+210,1,210,M,553,Mahalakshmi1.3.csv
+340,1,340,M,621,Mahalakshmi1.3.csv
+490,1,490,M,495,Mahalakshmi1.3.csv
+380,1,380,M,505,Mahalakshmi1.3.csv
+180,2,180,C,457,Mahalakshmi1.3.csv
+420,1,420,M,573,Mahalakshmi1.3.csv
+310,2,310,C,599,Mahalakshmi1.3.csv
+200,2,200,C,660,Mahalakshmi1.3.csv
+160,2,160,C,717,Mahalakshmi1.3.csv
+310,1,310,M,816,Mahalakshmi1.3.csv
+370,2,370,C,651,Mahalakshmi1.3.csv
+340,2,340,C,973,Mahalakshmi1.3.csv
+320,2,320,C,675,Mahalakshmi1.3.csv
+480,1,480,M,644,Mahalakshmi1.3.csv
+120,2,120,C,563,Mahalakshmi1.3.csv
+300,2,300,C,449,Mahalakshmi1.3.csv
+430,1,430,M,598,Mahalakshmi1.3.csv
+180,1,180,M,690,Mahalakshmi1.3.csv
+120,1,120,M,643,Mahalakshmi1.3.csv
+240,1,240,M,526,Mahalakshmi1.3.csv
+60,1,60,M,438,Mahalakshmi1.3.csv
+100,2,100,C,530,Mahalakshmi1.3.csv
+240,2,240,C,905,Mahalakshmi1.3.csv
+110,2,110,C,571,Mahalakshmi1.3.csv
+290,1,290,M,626,Mahalakshmi1.3.csv
+140,2,140,C,649,Mahalakshmi1.3.csv
+170,2,170,C,640,Mahalakshmi1.3.csv
+460,1,460,M,473,Mahalakshmi1.3.csv
+500,2,500,C,640,Mahalakshmi1.3.csv
+280,1,280,M,562,Mahalakshmi1.3.csv
+170,1,170,M,570,Mahalakshmi1.3.csv
+200,1,200,M,496,Mahalakshmi1.3.csv
+410,1,410,M,461,Mahalakshmi1.3.csv
+80,2,80,C,454,Mahalakshmi1.3.csv
+300,1,300,C,506,Mahalakshmi1.3.csv
+430,2,430,C,505,Mahalakshmi1.3.csv
+90,1,90,M,547,Mahalakshmi1.3.csv
+220,2,220,C,577,Mahalakshmi1.3.csv
+150,1,150,M,920,Mahalakshmi1.3.csv
+290,1,290,M,725,Mahalakshmi1.2.csv
+130,2,130,C,444,Mahalakshmi1.2.csv
+250,2,250,C,438,Mahalakshmi1.2.csv
+500,2,500,C,609,Mahalakshmi1.2.csv
+210,1,210,M,636,Mahalakshmi1.2.csv
+100,1,100,M,540,Mahalakshmi1.2.csv
+460,2,460,M,500,Mahalakshmi1.2.csv
+290,2,290,C,794,Mahalakshmi1.2.csv
+270,1,270,M,669,Mahalakshmi1.2.csv
+200,2,200,C,942,Mahalakshmi1.2.csv
+250,1,250,M,602,Mahalakshmi1.2.csv
+350,1,350,M,570,Mahalakshmi1.2.csv
+260,2,260,C,591,Mahalakshmi1.2.csv
+350,2,350,C,612,Mahalakshmi1.2.csv
+260,1,260,M,488,Mahalakshmi1.2.csv
+440,1,440,M,685,Mahalakshmi1.2.csv
+60,2,60,C,606,Mahalakshmi1.2.csv
+190,2,190,C,701,Mahalakshmi1.2.csv
+70,2,70,C,675,Mahalakshmi1.2.csv
+140,1,140,M,650,Mahalakshmi1.2.csv
+370,1,370,M,597,Mahalakshmi1.2.csv
+330,1,330,M,500,Mahalakshmi1.2.csv
+460,1,460,M,481,Mahalakshmi1.2.csv
+140,2,140,C,1475,Mahalakshmi1.2.csv
+220,2,220,C,596,Mahalakshmi1.2.csv
+430,2,430,C,638,Mahalakshmi1.2.csv
+420,1,420,M,502,Mahalakshmi1.2.csv
+380,2,380,C,1081,Mahalakshmi1.2.csv
+440,2,440,C,476,Mahalakshmi1.2.csv
+320,2,320,C,593,Mahalakshmi1.2.csv
+370,2,370,C,513,Mahalakshmi1.2.csv
+310,1,310,M,524,Mahalakshmi1.2.csv
+170,1,170,M,1052,Mahalakshmi1.2.csv
+190,1,190,M,641,Mahalakshmi1.2.csv
+50,2,50,C,780,Mahalakshmi1.2.csv
+130,1,130,M,625,Mahalakshmi1.2.csv
+180,2,180,C,898,Mahalakshmi1.2.csv
+280,1,280,M,1118,Mahalakshmi1.2.csv
+490,1,490,M,922,Mahalakshmi1.2.csv
+390,1,390,M,556,Mahalakshmi1.2.csv
+80,1,80,M,790,Mahalakshmi1.2.csv
+50,1,50,M,718,Mahalakshmi1.2.csv
+70,1,70,M,836,Mahalakshmi1.2.csv
+90,2,90,C,595,Mahalakshmi1.2.csv
+470,2,470,C,794,Mahalakshmi1.2.csv
+380,1,380,M,704,Mahalakshmi1.2.csv
+100,2,100,C,503,Mahalakshmi1.2.csv
+300,2,300,C,662,Mahalakshmi1.2.csv
+450,1,450,M,623,Mahalakshmi1.2.csv
+160,1,160,M,754,Mahalakshmi1.2.csv
+360,1,360,M,522,Mahalakshmi1.2.csv
+420,2,420,C,1670,Mahalakshmi1.2.csv
+480,2,480,C,601,Mahalakshmi1.2.csv
+490,2,490,C,542,Mahalakshmi1.2.csv
+110,1,110,M,673,Mahalakshmi1.2.csv
+360,2,360,C,635,Mahalakshmi1.2.csv
+410,2,410,C,796,Mahalakshmi1.2.csv
+270,2,270,C,636,Mahalakshmi1.2.csv
+400,1,400,M,603,Mahalakshmi1.2.csv
+390,2,390,C,681,Mahalakshmi1.2.csv
+170,2,170,C,595,Mahalakshmi1.2.csv
+230,1,230,M,700,Mahalakshmi1.2.csv
+430,1,430,M,620,Mahalakshmi1.2.csv
+240,1,240,M,780,Mahalakshmi1.2.csv
+160,2,160,C,646,Mahalakshmi1.2.csv
+410,1,410,M,735,Mahalakshmi1.2.csv
+220,1,220,M,614,Mahalakshmi1.2.csv
+180,1,180,M,644,Mahalakshmi1.2.csv
+280,2,280,C,659,Mahalakshmi1.2.csv
+330,2,330,C,553,Mahalakshmi1.2.csv
+80,2,80,C,704,Mahalakshmi1.2.csv
+480,1,480,M,650,Mahalakshmi1.2.csv
+240,2,240,M,1115,Mahalakshmi1.2.csv
+340,1,340,M,567,Mahalakshmi1.2.csv
+210,2,210,M,753,Mahalakshmi1.2.csv
+120,1,120,M,702,Mahalakshmi1.2.csv
+450,2,450,C,1038,Mahalakshmi1.2.csv
+320,1,320,C,790,Mahalakshmi1.2.csv
+500,1,500,M,688,Mahalakshmi1.2.csv
+470,1,470,M,572,Mahalakshmi1.2.csv
+300,1,300,M,825,Mahalakshmi1.2.csv
+90,1,90,M,678,Mahalakshmi1.2.csv
+110,2,110,C,1289,Mahalakshmi1.2.csv
+150,1,150,M,802,Mahalakshmi1.2.csv
+60,1,60,M,533,Mahalakshmi1.2.csv
+200,1,200,M,543,Mahalakshmi1.2.csv
+150,2,150,C,624,Mahalakshmi1.2.csv
+340,2,340,C,708,Mahalakshmi1.2.csv
+400,2,400,C,1208,Mahalakshmi1.2.csv
+230,2,230,C,668,Mahalakshmi1.2.csv
+120,2,120,C,647,Mahalakshmi1.2.csv
+310,2,310,C,1202,Mahalakshmi1.2.csv
+330,2,330,C,827,Mahalakshmi1.1.csv
+310,1,310,M,1424,Mahalakshmi1.1.csv
+130,2,130,C,944,Mahalakshmi1.1.csv
+240,2,240,C,1156,Mahalakshmi1.1.csv
+80,2,80,C,1434,Mahalakshmi1.1.csv
+360,1,360,M,1043,Mahalakshmi1.1.csv
+130,1,130,M,1262,Mahalakshmi1.1.csv
+280,1,280,M,1714,Mahalakshmi1.1.csv
+190,2,190,C,836,Mahalakshmi1.1.csv
+450,1,450,M,1650,Mahalakshmi1.1.csv
+370,2,370,C,1033,Mahalakshmi1.1.csv
+70,1,70,M,1730,Mahalakshmi1.1.csv
+230,1,230,C,1787,Mahalakshmi1.1.csv
+70,2,70,C,991,Mahalakshmi1.1.csv
+120,2,120,C,1511,Mahalakshmi1.1.csv
+180,1,180,M,891,Mahalakshmi1.1.csv
+300,2,300,C,949,Mahalakshmi1.1.csv
+340,1,340,M,900,Mahalakshmi1.1.csv
+340,2,340,C,1584,Mahalakshmi1.1.csv
+420,1,420,M,1234,Mahalakshmi1.1.csv
+460,1,460,M,1010,Mahalakshmi1.1.csv
+60,2,60,C,986,Mahalakshmi1.1.csv
+290,2,290,C,1472,Mahalakshmi1.1.csv
+390,2,390,C,1015,Mahalakshmi1.1.csv
+400,2,400,C,1236,Mahalakshmi1.1.csv
+80,1,80,M,909,Mahalakshmi1.1.csv
+120,1,120,M,1071,Mahalakshmi1.1.csv
+260,1,260,M,1179,Mahalakshmi1.1.csv
+300,1,300,M,1103,Mahalakshmi1.1.csv
+490,1,490,M,1120,Mahalakshmi1.1.csv
+140,2,140,C,692,Mahalakshmi1.1.csv
+350,1,350,C,1064,Mahalakshmi1.1.csv
+380,2,380,C,1286,Mahalakshmi1.1.csv
+50,1,50,M,959,Mahalakshmi1.1.csv
+470,2,470,C,647,Mahalakshmi1.1.csv
+480,1,480,M,1300,Mahalakshmi1.1.csv
+170,2,170,C,730,Mahalakshmi1.1.csv
+420,2,420,C,833,Mahalakshmi1.1.csv
+280,2,280,C,869,Mahalakshmi1.1.csv
+200,2,200,C,838,Mahalakshmi1.1.csv
+100,1,100,M,1095,Mahalakshmi1.1.csv
+250,1,250,M,841,Mahalakshmi1.1.csv
+460,2,460,C,714,Mahalakshmi1.1.csv
+240,1,240,M,1103,Mahalakshmi1.1.csv
+90,2,90,C,683,Mahalakshmi1.1.csv
+360,2,360,C,781,Mahalakshmi1.1.csv
+320,1,320,M,712,Mahalakshmi1.1.csv
+310,2,310,C,889,Mahalakshmi1.1.csv
+160,2,160,C,1596,Mahalakshmi1.1.csv
+110,2,110,C,916,Mahalakshmi1.1.csv
+260,2,260,C,1196,Mahalakshmi1.1.csv
+330,1,330,M,1904,Mahalakshmi1.1.csv
+430,2,430,C,1419,Mahalakshmi1.1.csv
+150,2,150,C,771,Mahalakshmi1.1.csv
+150,1,150,M,717,Mahalakshmi1.1.csv
+220,2,220,C,1478,Mahalakshmi1.1.csv
+100,2,100,C,690,Mahalakshmi1.1.csv
+60,1,60,M,656,Mahalakshmi1.1.csv
+270,1,270,M,1179,Mahalakshmi1.1.csv
+380,1,380,M,875,Mahalakshmi1.1.csv
+170,1,170,M,762,Mahalakshmi1.1.csv
+400,1,400,M,672,Mahalakshmi1.1.csv
+320,2,320,C,1453,Mahalakshmi1.1.csv
+440,2,440,C,771,Mahalakshmi1.1.csv
+50,2,50,C,857,Mahalakshmi1.1.csv
+160,1,160,M,728,Mahalakshmi1.1.csv
+200,1,200,M,948,Mahalakshmi1.1.csv
+230,2,230,C,678,Mahalakshmi1.1.csv
+500,2,500,C,877,Mahalakshmi1.1.csv
+480,2,480,M,694,Mahalakshmi1.1.csv
+440,1,440,M,782,Mahalakshmi1.1.csv
+180,2,180,C,865,Mahalakshmi1.1.csv
+210,2,210,C,664,Mahalakshmi1.1.csv
+370,1,370,M,1047,Mahalakshmi1.1.csv
+490,2,490,M,747,Mahalakshmi1.1.csv
+500,1,500,M,1807,Mahalakshmi1.1.csv
+140,1,140,M,866,Mahalakshmi1.1.csv
+390,1,390,M,1790,Mahalakshmi1.1.csv
+270,2,270,C,874,Mahalakshmi1.1.csv
+110,1,110,M,1224,Mahalakshmi1.1.csv
+410,2,410,C,1187,Mahalakshmi1.1.csv
+450,2,450,C,652,Mahalakshmi1.1.csv
+350,2,350,C,624,Mahalakshmi1.1.csv
+220,1,220,M,852,Mahalakshmi1.1.csv
+410,1,410,M,2380,Mahalakshmi1.1.csv
+430,1,430,M,744,Mahalakshmi1.1.csv
+290,1,290,M,785,Mahalakshmi1.1.csv
+90,1,90,M,1100,Mahalakshmi1.1.csv
+470,1,470,M,648,Mahalakshmi1.1.csv
+210,1,210,M,1418,Mahalakshmi1.1.csv
+190,1,190,M,958,Mahalakshmi1.1.csv
+250,2,250,M,1029,Mahalakshmi1.1.csv
+470,2,470,C,732,addie1.1.csv
+300,1,300,M,658,addie1.1.csv
+50,1,50,C,988,addie1.1.csv
+180,2,180,C,868,addie1.1.csv
+460,1,460,M,849,addie1.1.csv
+90,1,90,M,1575,addie1.1.csv
+240,2,240,C,794,addie1.1.csv
+340,1,340,M,1346,addie1.1.csv
+190,1,190,C,1142,addie1.1.csv
+80,2,80,C,915,addie1.1.csv
+420,2,420,C,1500,addie1.1.csv
+270,1,270,M,770,addie1.1.csv
+390,1,390,M,687,addie1.1.csv
+320,2,320,C,699,addie1.1.csv
+400,1,400,M,554,addie1.1.csv
+210,1,210,C,638,addie1.1.csv
+130,2,130,C,826,addie1.1.csv
+150,2,150,C,861,addie1.1.csv
+430,2,430,C,1046,addie1.1.csv
+210,2,210,C,2733,addie1.1.csv
+430,1,430,M,809,addie1.1.csv
+180,1,180,M,845,addie1.1.csv
+70,1,70,C,845,addie1.1.csv
+110,2,110,C,775,addie1.1.csv
+490,1,490,M,565,addie1.1.csv
+410,1,410,M,696,addie1.1.csv
+220,2,220,C,581,addie1.1.csv
+480,2,480,C,826,addie1.1.csv
+190,2,190,C,1538,addie1.1.csv
+70,2,70,M,4245,addie1.1.csv
+480,1,480,M,689,addie1.1.csv
+50,2,50,C,911,addie1.1.csv
+220,1,220,M,639,addie1.1.csv
+330,2,330,C,881,addie1.1.csv
+380,2,380,C,781,addie1.1.csv
+260,1,260,M,1273,addie1.1.csv
+280,2,280,C,1657,addie1.1.csv
+410,2,410,M,1672,addie1.1.csv
+170,2,170,C,1174,addie1.1.csv
+130,1,130,C,1306,addie1.1.csv
+200,1,200,M,1100,addie1.1.csv
+360,2,360,C,799,addie1.1.csv
+390,2,390,M,1428,addie1.1.csv
+160,2,160,C,2080,addie1.1.csv
+350,2,350,M,2475,addie1.1.csv
+450,1,450,M,1831,addie1.1.csv
+110,1,110,C,1749,addie1.1.csv
+470,1,470,C,1829,addie1.1.csv
+240,1,240,M,986,addie1.1.csv
+270,2,270,C,927,addie1.1.csv
+100,2,100,C,1578,addie1.1.csv
+100,1,100,M,1157,addie1.1.csv
+350,1,350,M,948,addie1.1.csv
+260,2,260,M,1701,addie1.1.csv
+60,2,60,C,856,addie1.1.csv
+230,2,230,C,1275,addie1.1.csv
+440,1,440,M,1597,addie1.1.csv
+490,2,490,M,2194,addie1.1.csv
+420,1,420,M,1019,addie1.1.csv
+170,1,170,M,1663,addie1.1.csv
+140,2,140,M,1866,addie1.1.csv
+290,2,290,C,702,addie1.1.csv
+370,1,370,M,1308,addie1.1.csv
+120,1,120,C,963,addie1.1.csv
+250,2,250,M,1930,addie1.1.csv
+450,2,450,M,1408,addie1.1.csv
+60,1,60,C,2226,addie1.1.csv
+120,2,120,C,1547,addie1.1.csv
+230,1,230,M,932,addie1.1.csv
+310,1,310,M,791,addie1.1.csv
+370,2,370,C,1121,addie1.1.csv
+500,1,500,M,876,addie1.1.csv
+280,1,280,M,743,addie1.1.csv
+200,2,200,C,785,addie1.1.csv
+310,2,310,C,1431,addie1.1.csv
+340,2,340,C,933,addie1.1.csv
+500,2,500,M,1876,addie1.1.csv
+320,1,320,M,927,addie1.1.csv
+290,1,290,M,1230,addie1.1.csv
+400,2,400,C,2044,addie1.1.csv
+330,1,330,M,952,addie1.1.csv
+160,1,160,C,1255,addie1.1.csv
+440,2,440,C,666,addie1.1.csv
+380,1,380,M,808,addie1.1.csv
+80,1,80,C,851,addie1.1.csv
+460,2,460,C,588,addie1.1.csv
+140,1,140,M,768,addie1.1.csv
+150,1,150,M,1508,addie1.1.csv
+250,1,250,M,961,addie1.1.csv
+300,2,300,C,837,addie1.1.csv
+90,2,90,C,790,addie1.1.csv
+360,1,360,M,1576,addie1.1.csv
+380,1,380,M,362,addie1.2.csv
+460,1,460,M,452,addie1.2.csv
+500,1,500,M,447,addie1.2.csv
+410,2,410,C,553,addie1.2.csv
+150,1,150,M,401,addie1.2.csv
+350,1,350,C,273,addie1.2.csv
+130,1,130,M,519,addie1.2.csv
+180,2,180,C,526,addie1.2.csv
+220,1,220,M,307,addie1.2.csv
+360,1,360,M,550,addie1.2.csv
+410,1,410,M,446,addie1.2.csv
+190,2,190,C,441,addie1.2.csv
+70,1,70,M,406,addie1.2.csv
+160,2,160,C,342,addie1.2.csv
+280,1,280,M,338,addie1.2.csv
+460,2,460,M,395,addie1.2.csv
+270,2,270,C,573,addie1.2.csv
+310,1,310,M,383,addie1.2.csv
+260,1,260,M,498,addie1.2.csv
+420,1,420,M,351,addie1.2.csv
+50,2,50,C,486,addie1.2.csv
+220,2,220,C,517,addie1.2.csv
+470,2,470,M,273,addie1.2.csv
+70,2,70,C,554,addie1.2.csv
+440,1,440,C,307,addie1.2.csv
+290,2,290,C,477,addie1.2.csv
+150,2,150,C,589,addie1.2.csv
+490,2,490,C,487,addie1.2.csv
+140,2,140,C,467,addie1.2.csv
+120,1,120,M,461,addie1.2.csv
+330,2,330,C,423,addie1.2.csv
+390,2,390,M,384,addie1.2.csv
+440,2,440,C,251,addie1.2.csv
+110,2,110,C,522,addie1.2.csv
+230,2,230,C,516,addie1.2.csv
+390,1,390,M,383,addie1.2.csv
+310,2,310,C,279,addie1.2.csv
+430,2,430,C,381,addie1.2.csv
+290,1,290,C,403,addie1.2.csv
+340,2,340,C,589,addie1.2.csv
+350,2,350,C,450,addie1.2.csv
+90,2,90,C,477,addie1.2.csv
+280,2,280,C,334,addie1.2.csv
+80,1,80,M,502,addie1.2.csv
+370,2,370,C,539,addie1.2.csv
+200,1,200,M,357,addie1.2.csv
+100,2,100,C,431,addie1.2.csv
+490,1,490,M,314,addie1.2.csv
+120,2,120,C,426,addie1.2.csv
+130,2,130,C,475,addie1.2.csv
+450,1,450,C,369,addie1.2.csv
+420,2,420,C,437,addie1.2.csv
+100,1,100,M,414,addie1.2.csv
+320,2,320,C,294,addie1.2.csv
+230,1,230,M,349,addie1.2.csv
+90,1,90,M,483,addie1.2.csv
+180,1,180,C,401,addie1.2.csv
+60,2,60,M,555,addie1.2.csv
+80,2,80,C,575,addie1.2.csv
+60,1,60,M,422,addie1.2.csv
+380,2,380,C,692,addie1.2.csv
+170,1,170,M,420,addie1.2.csv
+430,1,430,M,360,addie1.2.csv
+190,1,190,C,434,addie1.2.csv
+50,1,50,M,554,addie1.2.csv
+400,2,400,C,348,addie1.2.csv
+330,1,330,M,480,addie1.2.csv
+200,2,200,C,575,addie1.2.csv
+480,2,480,M,264,addie1.2.csv
+250,2,250,M,405,addie1.2.csv
+110,1,110,M,592,addie1.2.csv
+260,2,260,C,483,addie1.2.csv
+450,2,450,M,329,addie1.2.csv
+500,2,500,C,426,addie1.2.csv
+240,1,240,M,263,addie1.2.csv
+470,1,470,M,458,addie1.2.csv
+250,1,250,M,596,addie1.2.csv
+300,2,300,M,512,addie1.2.csv
+160,1,160,M,383,addie1.2.csv
+270,1,270,C,380,addie1.2.csv
+480,1,480,M,644,addie1.2.csv
+210,2,210,C,739,addie1.2.csv
+140,1,140,M,481,addie1.2.csv
+240,2,240,C,449,addie1.2.csv
+370,1,370,C,419,addie1.2.csv
+340,1,340,M,409,addie1.2.csv
+170,2,170,C,395,addie1.2.csv
+400,1,400,M,341,addie1.2.csv
+300,1,300,C,280,addie1.2.csv
+210,1,210,M,487,addie1.2.csv
+320,1,320,M,545,addie1.2.csv
+360,2,360,M,429,addie1.2.csv
+400,1,400,M,322,addie1.3.csv
+280,1,280,M,479,addie1.3.csv
+120,1,120,M,471,addie1.3.csv
+300,1,300,M,454,addie1.3.csv
+460,2,460,M,398,addie1.3.csv
+120,2,120,C,558,addie1.3.csv
+500,2,500,M,290,addie1.3.csv
+90,1,90,M,462,addie1.3.csv
+340,2,340,C,295,addie1.3.csv
+160,2,160,C,478,addie1.3.csv
+130,2,130,C,461,addie1.3.csv
+250,1,250,M,435,addie1.3.csv
+420,1,420,M,500,addie1.3.csv
+70,2,70,C,493,addie1.3.csv
+50,2,50,C,1050,addie1.3.csv
+100,1,100,M,493,addie1.3.csv
+330,2,330,M,468,addie1.3.csv
+480,1,480,M,443,addie1.3.csv
+260,2,260,C,422,addie1.3.csv
+90,2,90,C,436,addie1.3.csv
+320,2,320,C,412,addie1.3.csv
+240,1,240,M,325,addie1.3.csv
+380,2,380,C,466,addie1.3.csv
+210,2,210,C,446,addie1.3.csv
+70,1,70,M,426,addie1.3.csv
+290,1,290,C,262,addie1.3.csv
+190,1,190,C,442,addie1.3.csv
+110,2,110,C,451,addie1.3.csv
+390,2,390,M,263,addie1.3.csv
+440,2,440,C,354,addie1.3.csv
+280,2,280,M,262,addie1.3.csv
+480,2,480,C,373,addie1.3.csv
+310,2,310,C,341,addie1.3.csv
+380,1,380,C,279,addie1.3.csv
+470,2,470,M,387,addie1.3.csv
+340,1,340,M,463,addie1.3.csv
+450,2,450,C,515,addie1.3.csv
+150,1,150,M,368,addie1.3.csv
+100,2,100,C,341,addie1.3.csv
+300,2,300,C,470,addie1.3.csv
+330,1,330,M,319,addie1.3.csv
+310,1,310,C,280,addie1.3.csv
+170,1,170,M,500,addie1.3.csv
+200,1,200,M,383,addie1.3.csv
+230,1,230,M,423,addie1.3.csv
+50,1,50,M,428,addie1.3.csv
+160,1,160,M,382,addie1.3.csv
+430,1,430,M,309,addie1.3.csv
+360,2,360,M,376,addie1.3.csv
+500,1,500,M,419,addie1.3.csv
+80,1,80,M,542,addie1.3.csv
+210,1,210,M,421,addie1.3.csv
+270,1,270,M,476,addie1.3.csv
+410,1,410,M,358,addie1.3.csv
+470,1,470,M,408,addie1.3.csv
+400,2,400,M,418,addie1.3.csv
+250,2,250,C,490,addie1.3.csv
+140,2,140,C,483,addie1.3.csv
+350,2,350,C,573,addie1.3.csv
+80,2,80,C,482,addie1.3.csv
+260,1,260,M,477,addie1.3.csv
+180,2,180,M,462,addie1.3.csv
+150,2,150,C,446,addie1.3.csv
+410,2,410,C,400,addie1.3.csv
+60,1,60,M,488,addie1.3.csv
+130,1,130,M,464,addie1.3.csv
+200,2,200,M,440,addie1.3.csv
+420,2,420,C,417,addie1.3.csv
+320,1,320,M,516,addie1.3.csv
+370,1,370,M,595,addie1.3.csv
+220,2,220,C,537,addie1.3.csv
+190,2,190,C,578,addie1.3.csv
+440,1,440,M,525,addie1.3.csv
+430,2,430,C,490,addie1.3.csv
+350,1,350,M,452,addie1.3.csv
+110,1,110,C,481,addie1.3.csv
+270,2,270,C,511,addie1.3.csv
+450,1,450,M,377,addie1.3.csv
+140,1,140,C,377,addie1.3.csv
+60,2,60,C,383,addie1.3.csv
+390,1,390,M,361,addie1.3.csv
+460,1,460,C,321,addie1.3.csv
+370,2,370,M,392,addie1.3.csv
+230,2,230,M,393,addie1.3.csv
+360,1,360,M,426,addie1.3.csv
+180,1,180,M,572,addie1.3.csv
+220,1,220,C,361,addie1.3.csv
+290,2,290,C,576,addie1.3.csv
+170,2,170,C,561,addie1.3.csv
+490,1,490,M,546,addie1.3.csv
+240,2,240,C,407,addie1.3.csv
+490,2,490,C,419,addie1.3.csv
+460,2,460,C,611,richard1.1.csv
+330,1,330,C,734,richard1.1.csv
+450,2,450,C,636,richard1.1.csv
+340,1,340,C,752,richard1.1.csv
+410,1,410,C,866,richard1.1.csv
+170,2,170,C,1774,richard1.1.csv
+450,1,450,C,1015,richard1.1.csv
+100,1,100,C,3087,richard1.1.csv
+110,2,110,C,1678,richard1.1.csv
+500,1,500,M,2577,richard1.1.csv
+460,1,460,M,891,richard1.1.csv
+470,2,470,M,947,richard1.1.csv
+400,1,400,M,582,richard1.1.csv
+400,2,400,C,863,richard1.1.csv
+420,2,420,M,904,richard1.1.csv
+90,2,90,C,695,richard1.1.csv
+370,2,370,C,570,richard1.1.csv
+250,1,250,M,549,richard1.1.csv
+360,2,360,C,585,richard1.1.csv
+280,1,280,M,537,richard1.1.csv
+320,1,320,M,720,richard1.1.csv
+100,2,100,C,649,richard1.1.csv
+300,2,300,M,1387,richard1.1.csv
+380,1,380,M,684,richard1.1.csv
+330,2,330,C,653,richard1.1.csv
+500,2,500,C,764,richard1.1.csv
+270,2,270,C,662,richard1.1.csv
+190,1,190,M,629,richard1.1.csv
+140,2,140,C,652,richard1.1.csv
+270,1,270,M,665,richard1.1.csv
+440,2,440,C,759,richard1.1.csv
+180,2,180,M,614,richard1.1.csv
+190,2,190,C,754,richard1.1.csv
+180,1,180,M,592,richard1.1.csv
+310,2,310,C,663,richard1.1.csv
+300,1,300,M,561,richard1.1.csv
+50,1,50,M,605,richard1.1.csv
+420,1,420,M,1230,richard1.1.csv
+380,2,380,C,576,richard1.1.csv
+490,2,490,C,567,richard1.1.csv
+50,2,50,M,636,richard1.1.csv
+430,1,430,M,873,richard1.1.csv
+350,1,350,M,565,richard1.1.csv
+240,1,240,M,550,richard1.1.csv
+70,2,70,C,647,richard1.1.csv
+440,1,440,M,652,richard1.1.csv
+350,2,350,C,619,richard1.1.csv
+120,2,120,C,636,richard1.1.csv
+200,2,200,M,527,richard1.1.csv
+260,1,260,M,638,richard1.1.csv
+370,1,370,M,581,richard1.1.csv
+480,1,480,M,555,richard1.1.csv
+60,2,60,C,684,richard1.1.csv
+230,1,230,M,576,richard1.1.csv
+70,1,70,M,629,richard1.1.csv
+110,1,110,M,514,richard1.1.csv
+220,2,220,C,576,richard1.1.csv
+320,2,320,C,610,richard1.1.csv
+290,2,290,C,749,richard1.1.csv
+230,2,230,C,1060,richard1.1.csv
+310,1,310,M,525,richard1.1.csv
+280,2,280,C,591,richard1.1.csv
+430,2,430,C,443,richard1.1.csv
+160,2,160,C,659,richard1.1.csv
+390,2,390,C,452,richard1.1.csv
+130,2,130,C,752,richard1.1.csv
+340,2,340,C,483,richard1.1.csv
+60,1,60,C,508,richard1.1.csv
+220,1,220,M,593,richard1.1.csv
+160,1,160,M,556,richard1.1.csv
+80,1,80,M,541,richard1.1.csv
+390,1,390,M,592,richard1.1.csv
+200,1,200,M,562,richard1.1.csv
+470,1,470,M,741,richard1.1.csv
+250,2,250,C,1399,richard1.1.csv
+360,1,360,M,746,richard1.1.csv
+150,1,150,M,595,richard1.1.csv
+170,1,170,M,633,richard1.1.csv
+120,1,120,M,534,richard1.1.csv
+80,2,80,C,669,richard1.1.csv
+490,1,490,M,690,richard1.1.csv
+130,1,130,M,728,richard1.1.csv
+210,2,210,C,1255,richard1.1.csv
+210,1,210,M,566,richard1.1.csv
+260,2,260,C,598,richard1.1.csv
+410,2,410,C,1290,richard1.1.csv
+90,1,90,M,689,richard1.1.csv
+480,2,480,C,626,richard1.1.csv
+140,1,140,M,692,richard1.1.csv
+240,2,240,C,776,richard1.1.csv
+150,2,150,M,712,richard1.1.csv
+290,1,290,M,561,richard1.1.csv
+70,2,70,C,621,richard 1.2.csv
+310,1,310,M,518,richard 1.2.csv
+360,2,360,C,916,richard 1.2.csv
+360,1,360,M,401,richard 1.2.csv
+140,2,140,C,447,richard 1.2.csv
+460,1,460,M,906,richard 1.2.csv
+420,2,420,C,625,richard 1.2.csv
+170,2,170,M,1090,richard 1.2.csv
+470,1,470,M,597,richard 1.2.csv
+150,1,150,M,783,richard 1.2.csv
+390,2,390,C,543,richard 1.2.csv
+500,2,500,C,620,richard 1.2.csv
+470,2,470,C,522,richard 1.2.csv
+440,1,440,M,859,richard 1.2.csv
+150,2,150,C,546,richard 1.2.csv
+430,2,430,C,625,richard 1.2.csv
+90,1,90,M,482,richard 1.2.csv
+200,2,200,C,562,richard 1.2.csv
+320,2,320,C,482,richard 1.2.csv
+300,2,300,C,490,richard 1.2.csv
+90,2,90,C,553,richard 1.2.csv
+60,2,60,C,505,richard 1.2.csv
+490,2,490,C,564,richard 1.2.csv
+230,2,230,C,509,richard 1.2.csv
+400,1,400,M,468,richard 1.2.csv
+180,1,180,M,563,richard 1.2.csv
+250,2,250,C,499,richard 1.2.csv
+330,1,330,M,438,richard 1.2.csv
+350,1,350,M,476,richard 1.2.csv
+240,1,240,M,459,richard 1.2.csv
+210,1,210,M,464,richard 1.2.csv
+270,1,270,M,452,richard 1.2.csv
+380,2,380,C,434,richard 1.2.csv
+340,2,340,C,446,richard 1.2.csv
+50,1,50,M,525,richard 1.2.csv
+430,1,430,M,414,richard 1.2.csv
+110,1,110,M,469,richard 1.2.csv
+410,1,410,M,516,richard 1.2.csv
+490,1,490,M,544,richard 1.2.csv
+80,2,80,C,529,richard 1.2.csv
+340,1,340,M,411,richard 1.2.csv
+100,1,100,M,411,richard 1.2.csv
+250,1,250,M,416,richard 1.2.csv
+400,2,400,C,451,richard 1.2.csv
+60,1,60,M,442,richard 1.2.csv
+330,2,330,M,423,richard 1.2.csv
+290,1,290,M,460,richard 1.2.csv
+70,1,70,M,479,richard 1.2.csv
+190,1,190,M,463,richard 1.2.csv
+260,2,260,C,558,richard 1.2.csv
+320,1,320,M,485,richard 1.2.csv
+180,2,180,C,485,richard 1.2.csv
+480,2,480,C,430,richard 1.2.csv
+170,1,170,M,445,richard 1.2.csv
+380,1,380,M,448,richard 1.2.csv
+280,2,280,C,531,richard 1.2.csv
+480,1,480,M,686,richard 1.2.csv
+210,2,210,C,457,richard 1.2.csv
+160,1,160,M,437,richard 1.2.csv
+80,1,80,M,421,richard 1.2.csv
+260,1,260,M,430,richard 1.2.csv
+100,2,100,C,543,richard 1.2.csv
+140,1,140,M,371,richard 1.2.csv
+390,1,390,M,352,richard 1.2.csv
+410,2,410,C,503,richard 1.2.csv
+120,2,120,C,572,richard 1.2.csv
+300,1,300,M,376,richard 1.2.csv
+240,2,240,C,401,richard 1.2.csv
+130,2,130,C,519,richard 1.2.csv
+130,1,130,M,389,richard 1.2.csv
+500,1,500,M,428,richard 1.2.csv
+280,1,280,M,451,richard 1.2.csv
+350,2,350,C,415,richard 1.2.csv
+190,2,190,C,416,richard 1.2.csv
+220,1,220,M,433,richard 1.2.csv
+450,1,450,M,509,richard 1.2.csv
+120,1,120,M,488,richard 1.2.csv
+450,2,450,C,487,richard 1.2.csv
+230,1,230,M,443,richard 1.2.csv
+370,1,370,M,515,richard 1.2.csv
+440,2,440,C,565,richard 1.2.csv
+290,2,290,C,518,richard 1.2.csv
+460,2,460,C,537,richard 1.2.csv
+200,1,200,M,497,richard 1.2.csv
+370,2,370,C,452,richard 1.2.csv
+110,2,110,C,551,richard 1.2.csv
+50,2,50,C,647,richard 1.2.csv
+420,1,420,M,523,richard 1.2.csv
+220,2,220,C,523,richard 1.2.csv
+310,2,310,C,429,richard 1.2.csv
+270,2,270,C,547,richard 1.2.csv
+160,2,160,C,446,richard 1.2.csv
+190,2,190,M,398,richard 1.3.csv
+100,1,100,M,517,richard 1.3.csv
+60,2,60,C,591,richard 1.3.csv
+230,1,230,M,401,richard 1.3.csv
+240,1,240,M,474,richard 1.3.csv
+130,1,130,M,430,richard 1.3.csv
+110,1,110,M,496,richard 1.3.csv
+430,1,430,M,683,richard 1.3.csv
+400,2,400,M,621,richard 1.3.csv
+460,2,460,C,2,richard 1.3.csv
+350,2,350,C,4,richard 1.3.csv
+170,2,170,C,1392,richard 1.3.csv
+250,2,250,M,943,richard 1.3.csv
+150,2,150,C,716,richard 1.3.csv
+340,2,340,C,3074,richard 1.3.csv
+270,2,270,C,671,richard 1.3.csv
+400,1,400,M,472,richard 1.3.csv
+440,2,440,C,509,richard 1.3.csv
+80,1,80,M,482,richard 1.3.csv
+210,1,210,M,592,richard 1.3.csv
+70,1,70,M,458,richard 1.3.csv
+120,2,120,C,529,richard 1.3.csv
+420,1,420,M,475,richard 1.3.csv
+480,1,480,M,512,richard 1.3.csv
+500,2,500,C,480,richard 1.3.csv
+420,2,420,C,633,richard 1.3.csv
+340,1,340,M,498,richard 1.3.csv
+240,2,240,C,469,richard 1.3.csv
+290,2,290,C,453,richard 1.3.csv
+450,1,450,M,453,richard 1.3.csv
+140,1,140,M,555,richard 1.3.csv
+390,1,390,M,1,richard 1.3.csv
+250,1,250,M,515,richard 1.3.csv
+200,1,200,M,520,richard 1.3.csv
+460,1,460,M,455,richard 1.3.csv
+490,2,490,C,706,richard 1.3.csv
+280,1,280,M,519,richard 1.3.csv
+470,1,470,M,3,richard 1.3.csv
+120,1,120,M,621,richard 1.3.csv
+260,1,260,M,506,richard 1.3.csv
+170,1,170,M,490,richard 1.3.csv
+390,2,390,C,498,richard 1.3.csv
+50,2,50,C,584,richard 1.3.csv
+280,2,280,C,701,richard 1.3.csv
+320,2,320,C,472,richard 1.3.csv
+440,1,440,M,662,richard 1.3.csv
+160,2,160,C,619,richard 1.3.csv
+220,1,220,M,530,richard 1.3.csv
+200,2,200,C,479,richard 1.3.csv
+60,1,60,M,538,richard 1.3.csv
+300,2,300,C,429,richard 1.3.csv
+330,2,330,C,493,richard 1.3.csv
+290,1,290,M,419,richard 1.3.csv
+160,1,160,M,474,richard 1.3.csv
+190,1,190,M,441,richard 1.3.csv
+180,1,180,M,450,richard 1.3.csv
+230,2,230,C,561,richard 1.3.csv
+90,1,90,M,506,richard 1.3.csv
+270,1,270,M,420,richard 1.3.csv
+380,2,380,C,495,richard 1.3.csv
+430,2,430,C,436,richard 1.3.csv
+220,2,220,C,499,richard 1.3.csv
+370,2,370,C,540,richard 1.3.csv
+310,1,310,M,481,richard 1.3.csv
+300,1,300,M,519,richard 1.3.csv
+80,2,80,C,523,richard 1.3.csv
+140,2,140,C,555,richard 1.3.csv
+310,2,310,C,457,richard 1.3.csv
+110,2,110,C,482,richard 1.3.csv
+360,2,360,C,479,richard 1.3.csv
+410,1,410,M,505,richard 1.3.csv
+180,2,180,C,902,richard 1.3.csv
+150,1,150,M,458,richard 1.3.csv
+450,2,450,C,435,richard 1.3.csv
+380,1,380,M,433,richard 1.3.csv
+490,1,490,M,439,richard 1.3.csv
+260,2,260,C,456,richard 1.3.csv
+350,1,350,M,437,richard 1.3.csv
+500,1,500,M,410,richard 1.3.csv
+370,1,370,M,474,richard 1.3.csv
+410,2,410,C,408,richard 1.3.csv
+50,1,50,M,433,richard 1.3.csv
+100,2,100,C,523,richard 1.3.csv
+320,1,320,M,358,richard 1.3.csv
+210,2,210,C,391,richard 1.3.csv
+130,2,130,C,478,richard 1.3.csv
+70,2,70,M,461,richard 1.3.csv
+470,2,470,C,593,richard 1.3.csv
+330,1,330,M,416,richard 1.3.csv
+360,1,360,M,458,richard 1.3.csv
+480,2,480,C,585,richard 1.3.csv
+90,2,90,C,492,richard 1.3.csv
+410,2,410,C,536,angelyn1.1.csv
+140,2,140,C,730,angelyn1.1.csv
+180,2,180,C,629,angelyn1.1.csv
+400,1,400,M,451,angelyn1.1.csv
+440,1,440,M,479,angelyn1.1.csv
+80,1,80,M,555,angelyn1.1.csv
+210,1,210,M,650,angelyn1.1.csv
+360,2,360,C,447,angelyn1.1.csv
+480,2,480,C,503,angelyn1.1.csv
+70,1,70,M,413,angelyn1.1.csv
+480,1,480,M,515,angelyn1.1.csv
+140,1,140,M,439,angelyn1.1.csv
+350,1,350,M,454,angelyn1.1.csv
+130,2,130,C,443,angelyn1.1.csv
+280,2,280,C,458,angelyn1.1.csv
+70,2,70,C,468,angelyn1.1.csv
+360,1,360,M,582,angelyn1.1.csv
+470,2,470,C,426,angelyn1.1.csv
+240,2,240,C,477,angelyn1.1.csv
+120,1,120,M,405,angelyn1.1.csv
+250,1,250,M,391,angelyn1.1.csv
+370,2,370,C,447,angelyn1.1.csv
+100,2,100,C,544,angelyn1.1.csv
+410,1,410,M,515,angelyn1.1.csv
+50,2,50,C,556,angelyn1.1.csv
+370,1,370,M,396,angelyn1.1.csv
+150,2,150,C,384,angelyn1.1.csv
+280,1,280,M,377,angelyn1.1.csv
+230,1,230,M,547,angelyn1.1.csv
+380,1,380,M,496,angelyn1.1.csv
+500,1,500,C,494,angelyn1.1.csv
+200,2,200,C,421,angelyn1.1.csv
+300,1,300,M,361,angelyn1.1.csv
+460,2,460,C,420,angelyn1.1.csv
+430,1,430,M,587,angelyn1.1.csv
+220,2,220,C,494,angelyn1.1.csv
+310,2,310,C,503,angelyn1.1.csv
+220,1,220,M,357,angelyn1.1.csv
+320,2,320,C,367,angelyn1.1.csv
+420,1,420,M,426,angelyn1.1.csv
+400,2,400,C,507,angelyn1.1.csv
+80,2,80,C,532,angelyn1.1.csv
+450,2,450,C,425,angelyn1.1.csv
+320,1,320,M,296,angelyn1.1.csv
+130,1,130,M,354,angelyn1.1.csv
+230,2,230,C,476,angelyn1.1.csv
+190,1,190,M,297,angelyn1.1.csv
+60,2,60,C,440,angelyn1.1.csv
+430,2,430,C,533,angelyn1.1.csv
+250,2,250,C,414,angelyn1.1.csv
+450,1,450,M,330,angelyn1.1.csv
+160,2,160,C,435,angelyn1.1.csv
+330,2,330,C,370,angelyn1.1.csv
+60,1,60,M,470,angelyn1.1.csv
+350,2,350,C,500,angelyn1.1.csv
+190,2,190,C,405,angelyn1.1.csv
+120,2,120,M,262,angelyn1.1.csv
+170,1,170,M,397,angelyn1.1.csv
+310,1,310,M,330,angelyn1.1.csv
+500,2,500,C,314,angelyn1.1.csv
+110,1,110,M,375,angelyn1.1.csv
+380,2,380,C,434,angelyn1.1.csv
+390,2,390,C,425,angelyn1.1.csv
+270,2,270,M,246,angelyn1.1.csv
+440,2,440,C,371,angelyn1.1.csv
+210,2,210,C,413,angelyn1.1.csv
+460,1,460,M,227,angelyn1.1.csv
+50,1,50,M,442,angelyn1.1.csv
+340,2,340,C,422,angelyn1.1.csv
+260,2,260,C,337,angelyn1.1.csv
+110,2,110,C,368,angelyn1.1.csv
+420,2,420,C,343,angelyn1.1.csv
+330,1,330,M,367,angelyn1.1.csv
+390,1,390,M,344,angelyn1.1.csv
+470,1,470,M,393,angelyn1.1.csv
+270,1,270,M,318,angelyn1.1.csv
+240,1,240,M,306,angelyn1.1.csv
+180,1,180,M,329,angelyn1.1.csv
+300,2,300,C,457,angelyn1.1.csv
+490,1,490,M,309,angelyn1.1.csv
+290,1,290,M,319,angelyn1.1.csv
+490,2,490,C,480,angelyn1.1.csv
+170,2,170,C,378,angelyn1.1.csv
+200,1,200,M,502,angelyn1.1.csv
+290,2,290,C,370,angelyn1.1.csv
+340,1,340,M,361,angelyn1.1.csv
+100,1,100,M,403,angelyn1.1.csv
+150,1,150,M,419,angelyn1.1.csv
+90,2,90,C,387,angelyn1.1.csv
+90,1,90,M,380,angelyn1.1.csv
+160,1,160,M,336,angelyn1.1.csv
+260,1,260,M,354,angelyn1.1.csv
+310,1,310,M,420,angelyn1.2.csv
+110,1,110,M,521,angelyn1.2.csv
+350,2,350,C,508,angelyn1.2.csv
+220,1,220,M,429,angelyn1.2.csv
+290,2,290,C,386,angelyn1.2.csv
+130,1,130,M,298,angelyn1.2.csv
+500,1,500,M,357,angelyn1.2.csv
+480,1,480,M,355,angelyn1.2.csv
+330,2,330,C,453,angelyn1.2.csv
+410,1,410,M,350,angelyn1.2.csv
+470,2,470,C,423,angelyn1.2.csv
+480,2,480,C,393,angelyn1.2.csv
+500,2,500,C,409,angelyn1.2.csv
+210,1,210,M,384,angelyn1.2.csv
+160,2,160,C,412,angelyn1.2.csv
+90,1,90,C,391,angelyn1.2.csv
+190,2,190,C,335,angelyn1.2.csv
+370,2,370,C,404,angelyn1.2.csv
+270,1,270,M,340,angelyn1.2.csv
+430,1,430,M,298,angelyn1.2.csv
+80,1,80,M,472,angelyn1.2.csv
+310,2,310,C,400,angelyn1.2.csv
+320,2,320,C,422,angelyn1.2.csv
+260,1,260,M,373,angelyn1.2.csv
+430,2,430,C,388,angelyn1.2.csv
+200,1,200,M,352,angelyn1.2.csv
+50,1,50,M,381,angelyn1.2.csv
+170,1,170,M,455,angelyn1.2.csv
+230,1,230,M,334,angelyn1.2.csv
+250,1,250,M,364,angelyn1.2.csv
+420,2,420,C,383,angelyn1.2.csv
+330,1,330,M,360,angelyn1.2.csv
+50,2,50,C,430,angelyn1.2.csv
+220,2,220,C,412,angelyn1.2.csv
+410,2,410,C,359,angelyn1.2.csv
+280,2,280,C,397,angelyn1.2.csv
+180,1,180,M,448,angelyn1.2.csv
+340,2,340,C,421,angelyn1.2.csv
+460,1,460,C,393,angelyn1.2.csv
+150,1,150,M,452,angelyn1.2.csv
+140,1,140,M,380,angelyn1.2.csv
+420,1,420,M,361,angelyn1.2.csv
+270,2,270,C,472,angelyn1.2.csv
+400,2,400,C,377,angelyn1.2.csv
+390,2,390,C,431,angelyn1.2.csv
+90,2,90,C,432,angelyn1.2.csv
+70,1,70,M,369,angelyn1.2.csv
+450,2,450,C,388,angelyn1.2.csv
+160,1,160,M,304,angelyn1.2.csv
+360,1,360,M,400,angelyn1.2.csv
+450,1,450,M,350,angelyn1.2.csv
+490,1,490,M,342,angelyn1.2.csv
+130,2,130,C,395,angelyn1.2.csv
+170,2,170,C,329,angelyn1.2.csv
+440,2,440,C,465,angelyn1.2.csv
+390,1,390,M,287,angelyn1.2.csv
+230,2,230,C,340,angelyn1.2.csv
+490,2,490,C,351,angelyn1.2.csv
+370,1,370,C,356,angelyn1.2.csv
+240,1,240,M,426,angelyn1.2.csv
+110,2,110,C,386,angelyn1.2.csv
+300,1,300,M,363,angelyn1.2.csv
+180,2,180,M,346,angelyn1.2.csv
+440,1,440,M,525,angelyn1.2.csv
+100,1,100,M,360,angelyn1.2.csv
+210,2,210,C,456,angelyn1.2.csv
+140,2,140,C,477,angelyn1.2.csv
+320,1,320,M,398,angelyn1.2.csv
+460,2,460,C,351,angelyn1.2.csv
+470,1,470,M,399,angelyn1.2.csv
+260,2,260,C,397,angelyn1.2.csv
+380,1,380,M,299,angelyn1.2.csv
+240,2,240,C,407,angelyn1.2.csv
+350,1,350,M,347,angelyn1.2.csv
+340,1,340,M,349,angelyn1.2.csv
+100,2,100,C,421,angelyn1.2.csv
+360,2,360,C,420,angelyn1.2.csv
+290,1,290,M,370,angelyn1.2.csv
+400,1,400,M,295,angelyn1.2.csv
+60,2,60,C,402,angelyn1.2.csv
+60,1,60,M,355,angelyn1.2.csv
+280,1,280,M,365,angelyn1.2.csv
+190,1,190,M,292,angelyn1.2.csv
+150,2,150,M,277,angelyn1.2.csv
+200,2,200,C,449,angelyn1.2.csv
+120,2,120,C,493,angelyn1.2.csv
+380,2,380,C,391,angelyn1.2.csv
+250,2,250,C,418,angelyn1.2.csv
+300,2,300,M,275,angelyn1.2.csv
+70,2,70,C,410,angelyn1.2.csv
+80,2,80,C,386,angelyn1.2.csv
+120,1,120,C,366,angelyn1.2.csv
+490,2,490,C,441,angelyn1.3.csv
+280,1,280,C,389,angelyn1.3.csv
+60,1,60,M,473,angelyn1.3.csv
+140,1,140,M,330,angelyn1.3.csv
+120,1,120,M,463,angelyn1.3.csv
+290,1,290,M,372,angelyn1.3.csv
+350,1,350,M,342,angelyn1.3.csv
+230,1,230,M,332,angelyn1.3.csv
+220,1,220,M,329,angelyn1.3.csv
+400,1,400,M,346,angelyn1.3.csv
+430,1,430,M,319,angelyn1.3.csv
+320,1,320,M,315,angelyn1.3.csv
+370,1,370,M,277,angelyn1.3.csv
+110,2,110,C,428,angelyn1.3.csv
+180,1,180,C,319,angelyn1.3.csv
+70,1,70,M,344,angelyn1.3.csv
+90,1,90,M,330,angelyn1.3.csv
+400,2,400,M,319,angelyn1.3.csv
+150,1,150,M,340,angelyn1.3.csv
+60,2,60,C,461,angelyn1.3.csv
+450,2,450,C,430,angelyn1.3.csv
+70,2,70,C,491,angelyn1.3.csv
+240,1,240,M,413,angelyn1.3.csv
+500,1,500,M,339,angelyn1.3.csv
+270,2,270,C,412,angelyn1.3.csv
+210,1,210,M,326,angelyn1.3.csv
+200,1,200,M,355,angelyn1.3.csv
+430,2,430,C,479,angelyn1.3.csv
+470,2,470,C,442,angelyn1.3.csv
+200,2,200,C,388,angelyn1.3.csv
+460,1,460,M,337,angelyn1.3.csv
+110,1,110,M,395,angelyn1.3.csv
+90,2,90,C,362,angelyn1.3.csv
+410,2,410,C,388,angelyn1.3.csv
+100,2,100,C,410,angelyn1.3.csv
+260,2,260,C,363,angelyn1.3.csv
+460,2,460,C,382,angelyn1.3.csv
+490,1,490,M,461,angelyn1.3.csv
+50,1,50,M,402,angelyn1.3.csv
+170,2,170,C,432,angelyn1.3.csv
+80,1,80,M,375,angelyn1.3.csv
+420,1,420,M,327,angelyn1.3.csv
+310,2,310,M,393,angelyn1.3.csv
+170,1,170,M,406,angelyn1.3.csv
+180,2,180,C,441,angelyn1.3.csv
+300,2,300,C,525,angelyn1.3.csv
+150,2,150,C,367,angelyn1.3.csv
+410,1,410,M,600,angelyn1.3.csv
+190,1,190,M,392,angelyn1.3.csv
+130,2,130,C,422,angelyn1.3.csv
+330,1,330,M,438,angelyn1.3.csv
+50,2,50,C,413,angelyn1.3.csv
+250,1,250,M,293,angelyn1.3.csv
+380,2,380,C,485,angelyn1.3.csv
+320,2,320,C,409,angelyn1.3.csv
+260,1,260,M,303,angelyn1.3.csv
+280,2,280,C,415,angelyn1.3.csv
+480,1,480,M,313,angelyn1.3.csv
+240,2,240,C,380,angelyn1.3.csv
+330,2,330,C,390,angelyn1.3.csv
+340,1,340,M,274,angelyn1.3.csv
+160,1,160,M,536,angelyn1.3.csv
+440,1,440,M,368,angelyn1.3.csv
+390,1,390,C,484,angelyn1.3.csv
+440,2,440,C,454,angelyn1.3.csv
+100,1,100,M,327,angelyn1.3.csv
+420,2,420,C,401,angelyn1.3.csv
+130,1,130,M,344,angelyn1.3.csv
+290,2,290,C,419,angelyn1.3.csv
+270,1,270,M,263,angelyn1.3.csv
+470,1,470,M,365,angelyn1.3.csv
+380,1,380,M,380,angelyn1.3.csv
+370,2,370,C,529,angelyn1.3.csv
+140,2,140,M,369,angelyn1.3.csv
+230,2,230,C,467,angelyn1.3.csv
+360,1,360,M,406,angelyn1.3.csv
+500,2,500,C,423,angelyn1.3.csv
+390,2,390,C,402,angelyn1.3.csv
+210,2,210,C,376,angelyn1.3.csv
+80,2,80,C,358,angelyn1.3.csv
+310,1,310,C,388,angelyn1.3.csv
+160,2,160,C,420,angelyn1.3.csv
+220,2,220,C,411,angelyn1.3.csv
+120,2,120,C,385,angelyn1.3.csv
+350,2,350,C,394,angelyn1.3.csv
+360,2,360,C,416,angelyn1.3.csv
+340,2,340,C,381,angelyn1.3.csv
+480,2,480,C,347,angelyn1.3.csv
+300,1,300,M,469,angelyn1.3.csv
+250,2,250,C,433,angelyn1.3.csv
+450,1,450,M,411,angelyn1.3.csv
+190,2,190,C,414,angelyn1.3.csv
+420,2,420,M,287,Lila1.3.csv
+220,1,220,M,501,Lila1.3.csv
+50,1,50,M,432,Lila1.3.csv
+230,2,230,M,376,Lila1.3.csv
+110,1,110,M,474,Lila1.3.csv
+180,1,180,M,396,Lila1.3.csv
+100,1,100,M,521,Lila1.3.csv
+240,1,240,M,417,Lila1.3.csv
+360,1,360,M,378,Lila1.3.csv
+190,2,190,C,422,Lila1.3.csv
+250,1,250,M,352,Lila1.3.csv
+340,1,340,M,351,Lila1.3.csv
+370,1,370,M,406,Lila1.3.csv
+370,2,370,C,436,Lila1.3.csv
+50,2,50,C,476,Lila1.3.csv
+400,1,400,M,422,Lila1.3.csv
+90,1,90,M,362,Lila1.3.csv
+250,2,250,C,399,Lila1.3.csv
+380,1,380,M,389,Lila1.3.csv
+300,1,300,M,374,Lila1.3.csv
+320,1,320,M,310,Lila1.3.csv
+100,2,100,M,340,Lila1.3.csv
+420,1,420,C,409,Lila1.3.csv
+170,1,170,M,480,Lila1.3.csv
+430,2,430,C,419,Lila1.3.csv
+410,1,410,M,357,Lila1.3.csv
+330,1,330,M,332,Lila1.3.csv
+180,2,180,C,567,Lila1.3.csv
+470,1,470,M,548,Lila1.3.csv
+390,2,390,C,478,Lila1.3.csv
+240,2,240,C,517,Lila1.3.csv
+440,2,440,C,416,Lila1.3.csv
+400,2,400,C,387,Lila1.3.csv
+220,2,220,C,456,Lila1.3.csv
+460,2,460,C,601,Lila1.3.csv
+480,1,480,M,414,Lila1.3.csv
+450,2,450,C,461,Lila1.3.csv
+120,2,120,C,410,Lila1.3.csv
+470,2,470,C,336,Lila1.3.csv
+480,2,480,C,426,Lila1.3.csv
+210,2,210,C,438,Lila1.3.csv
+260,2,260,C,879,Lila1.3.csv
+260,1,260,M,383,Lila1.3.csv
+110,2,110,C,402,Lila1.3.csv
+490,2,490,M,363,Lila1.3.csv
+130,1,130,M,373,Lila1.3.csv
+120,1,120,M,503,Lila1.3.csv
+440,1,440,M,371,Lila1.3.csv
+70,2,70,C,393,Lila1.3.csv
+450,1,450,M,305,Lila1.3.csv
+270,2,270,M,328,Lila1.3.csv
+290,2,290,C,432,Lila1.3.csv
+300,2,300,C,320,Lila1.3.csv
+190,1,190,M,397,Lila1.3.csv
+140,1,140,M,408,Lila1.3.csv
+350,1,350,M,342,Lila1.3.csv
+200,1,200,M,391,Lila1.3.csv
+90,2,90,M,360,Lila1.3.csv
+170,2,170,C,730,Lila1.3.csv
+410,2,410,C,471,Lila1.3.csv
+490,1,490,M,427,Lila1.3.csv
+230,1,230,M,315,Lila1.3.csv
+290,1,290,M,374,Lila1.3.csv
+80,2,80,C,394,Lila1.3.csv
+80,1,80,C,373,Lila1.3.csv
+350,2,350,C,380,Lila1.3.csv
+60,2,60,C,461,Lila1.3.csv
+320,2,320,C,385,Lila1.3.csv
+460,1,460,M,475,Lila1.3.csv
+330,2,330,M,381,Lila1.3.csv
+280,1,280,M,397,Lila1.3.csv
+340,2,340,C,496,Lila1.3.csv
+160,2,160,C,508,Lila1.3.csv
+270,1,270,M,384,Lila1.3.csv
+310,1,310,M,428,Lila1.3.csv
+130,2,130,M,406,Lila1.3.csv
+360,2,360,C,359,Lila1.3.csv
+150,2,150,C,444,Lila1.3.csv
+390,1,390,M,424,Lila1.3.csv
+140,2,140,C,431,Lila1.3.csv
+210,1,210,M,421,Lila1.3.csv
+200,2,200,C,479,Lila1.3.csv
+150,1,150,M,510,Lila1.3.csv
+500,2,500,C,442,Lila1.3.csv
+60,1,60,M,623,Lila1.3.csv
+380,2,380,C,703,Lila1.3.csv
+70,1,70,M,550,Lila1.3.csv
+280,2,280,C,1111,Lila1.3.csv
+160,1,160,M,456,Lila1.3.csv
+430,1,430,M,428,Lila1.3.csv
+310,2,310,C,457,Lila1.3.csv
+500,1,500,M,209,Lila1.3.csv
+430,1,430,M,432,Lila1.2.csv
+380,1,380,M,348,Lila1.2.csv
+240,1,240,M,367,Lila1.2.csv
+500,1,500,M,412,Lila1.2.csv
+400,2,400,C,474,Lila1.2.csv
+220,1,220,M,435,Lila1.2.csv
+90,1,90,M,365,Lila1.2.csv
+250,1,250,M,351,Lila1.2.csv
+240,2,240,C,421,Lila1.2.csv
+430,2,430,C,486,Lila1.2.csv
+410,1,410,M,435,Lila1.2.csv
+120,1,120,M,365,Lila1.2.csv
+230,2,230,M,310,Lila1.2.csv
+500,2,500,C,428,Lila1.2.csv
+360,1,360,M,414,Lila1.2.csv
+190,1,190,C,464,Lila1.2.csv
+350,1,350,M,493,Lila1.2.csv
+80,2,80,C,483,Lila1.2.csv
+260,1,260,C,343,Lila1.2.csv
+270,1,270,M,571,Lila1.2.csv
+390,1,390,M,358,Lila1.2.csv
+470,2,470,C,463,Lila1.2.csv
+280,1,280,M,434,Lila1.2.csv
+310,1,310,M,356,Lila1.2.csv
+300,2,300,M,355,Lila1.2.csv
+130,1,130,M,394,Lila1.2.csv
+410,2,410,C,429,Lila1.2.csv
+220,2,220,M,383,Lila1.2.csv
+460,1,460,M,404,Lila1.2.csv
+490,1,490,C,3,Lila1.2.csv
+60,2,60,C,477,Lila1.2.csv
+180,1,180,M,486,Lila1.2.csv
+210,2,210,C,401,Lila1.2.csv
+260,2,260,C,361,Lila1.2.csv
+340,2,340,C,479,Lila1.2.csv
+120,2,120,C,390,Lila1.2.csv
+150,2,150,C,548,Lila1.2.csv
+440,1,440,M,448,Lila1.2.csv
+450,2,450,C,489,Lila1.2.csv
+70,1,70,M,520,Lila1.2.csv
+80,1,80,M,616,Lila1.2.csv
+110,2,110,C,433,Lila1.2.csv
+140,2,140,C,363,Lila1.2.csv
+420,2,420,C,553,Lila1.2.csv
+50,2,50,C,482,Lila1.2.csv
+160,2,160,C,317,Lila1.2.csv
+370,2,370,C,390,Lila1.2.csv
+100,2,100,C,377,Lila1.2.csv
+200,1,200,M,568,Lila1.2.csv
+380,2,380,M,331,Lila1.2.csv
+330,1,330,M,528,Lila1.2.csv
+300,1,300,M,375,Lila1.2.csv
+350,2,350,C,427,Lila1.2.csv
+170,1,170,M,423,Lila1.2.csv
+150,1,150,M,501,Lila1.2.csv
+160,1,160,M,374,Lila1.2.csv
+90,2,90,C,449,Lila1.2.csv
+400,1,400,M,479,Lila1.2.csv
+270,2,270,C,577,Lila1.2.csv
+210,1,210,M,387,Lila1.2.csv
+290,1,290,M,449,Lila1.2.csv
+420,1,420,M,350,Lila1.2.csv
+320,1,320,M,347,Lila1.2.csv
+480,2,480,C,415,Lila1.2.csv
+480,1,480,M,476,Lila1.2.csv
+440,2,440,C,413,Lila1.2.csv
+390,2,390,C,459,Lila1.2.csv
+200,2,200,C,417,Lila1.2.csv
+230,1,230,M,416,Lila1.2.csv
+360,2,360,M,371,Lila1.2.csv
+170,2,170,C,555,Lila1.2.csv
+180,2,180,C,435,Lila1.2.csv
+70,2,70,C,384,Lila1.2.csv
+250,2,250,C,401,Lila1.2.csv
+60,1,60,M,384,Lila1.2.csv
+460,2,460,M,366,Lila1.2.csv
+140,1,140,C,343,Lila1.2.csv
+320,2,320,C,478,Lila1.2.csv
+280,2,280,C,413,Lila1.2.csv
+130,2,130,C,439,Lila1.2.csv
+100,1,100,M,414,Lila1.2.csv
+450,1,450,M,383,Lila1.2.csv
+370,1,370,M,389,Lila1.2.csv
+190,2,190,M,323,Lila1.2.csv
+110,1,110,M,525,Lila1.2.csv
+490,2,490,C,467,Lila1.2.csv
+470,1,470,M,435,Lila1.2.csv
+310,2,310,C,578,Lila1.2.csv
+330,2,330,C,524,Lila1.2.csv
+290,2,290,C,426,Lila1.2.csv
+340,1,340,M,408,Lila1.2.csv
+50,1,50,M,342,Lila1.2.csv
+160,2,160,C,409,Lila1.1.csv
+490,2,490,C,1458,Lila1.1.csv
+390,2,390,C,495,Lila1.1.csv
+480,1,480,M,479,Lila1.1.csv
+310,1,310,M,1043,Lila1.1.csv
+60,2,60,C,552,Lila1.1.csv
+70,2,70,C,508,Lila1.1.csv
+490,1,490,M,459,Lila1.1.csv
+370,2,370,C,654,Lila1.1.csv
+90,2,90,C,537,Lila1.1.csv
+220,1,220,M,464,Lila1.1.csv
+450,2,450,C,582,Lila1.1.csv
+60,1,60,M,556,Lila1.1.csv
+420,2,420,C,437,Lila1.1.csv
+290,1,290,M,387,Lila1.1.csv
+470,2,470,C,534,Lila1.1.csv
+280,2,280,C,629,Lila1.1.csv
+260,2,260,C,458,Lila1.1.csv
+480,2,480,C,522,Lila1.1.csv
+220,2,220,C,653,Lila1.1.csv
+280,1,280,M,431,Lila1.1.csv
+320,2,320,C,485,Lila1.1.csv
+80,2,80,C,472,Lila1.1.csv
+190,1,190,M,584,Lila1.1.csv
+210,1,210,M,667,Lila1.1.csv
+200,1,200,M,684,Lila1.1.csv
+170,2,170,C,489,Lila1.1.csv
+130,1,130,M,487,Lila1.1.csv
+230,1,230,M,610,Lila1.1.csv
+140,2,140,C,490,Lila1.1.csv
+80,1,80,M,433,Lila1.1.csv
+170,1,170,M,411,Lila1.1.csv
+140,1,140,M,375,Lila1.1.csv
+130,2,130,C,369,Lila1.1.csv
+420,1,420,C,367,Lila1.1.csv
+300,2,300,M,510,Lila1.1.csv
+310,2,310,C,443,Lila1.1.csv
+340,1,340,M,390,Lila1.1.csv
+320,1,320,M,517,Lila1.1.csv
+450,1,450,M,382,Lila1.1.csv
+240,1,240,M,358,Lila1.1.csv
+270,2,270,C,611,Lila1.1.csv
+350,1,350,M,525,Lila1.1.csv
+340,2,340,C,635,Lila1.1.csv
+460,2,460,C,487,Lila1.1.csv
+110,1,110,M,456,Lila1.1.csv
+200,2,200,C,389,Lila1.1.csv
+100,1,100,M,361,Lila1.1.csv
+120,2,120,M,368,Lila1.1.csv
+250,1,250,M,399,Lila1.1.csv
+240,2,240,C,663,Lila1.1.csv
+50,1,50,M,440,Lila1.1.csv
+210,2,210,C,422,Lila1.1.csv
+430,2,430,C,429,Lila1.1.csv
+330,1,330,M,526,Lila1.1.csv
+470,1,470,M,596,Lila1.1.csv
+440,2,440,C,440,Lila1.1.csv
+500,1,500,M,478,Lila1.1.csv
+70,1,70,M,502,Lila1.1.csv
+440,1,440,M,352,Lila1.1.csv
+120,1,120,M,360,Lila1.1.csv
+90,1,90,M,407,Lila1.1.csv
+460,1,460,M,463,Lila1.1.csv
+300,1,300,M,432,Lila1.1.csv
+230,2,230,M,406,Lila1.1.csv
+180,2,180,C,345,Lila1.1.csv
+250,2,250,C,500,Lila1.1.csv
+370,1,370,M,536,Lila1.1.csv
+290,2,290,C,480,Lila1.1.csv
+430,1,430,M,1046,Lila1.1.csv
+150,2,150,C,550,Lila1.1.csv
+330,2,330,C,344,Lila1.1.csv
+360,1,360,M,869,Lila1.1.csv
+190,2,190,C,477,Lila1.1.csv
+410,2,410,C,418,Lila1.1.csv
+400,1,400,M,456,Lila1.1.csv
+500,2,500,C,498,Lila1.1.csv
+270,1,270,M,534,Lila1.1.csv
+50,2,50,C,520,Lila1.1.csv
+100,2,100,C,522,Lila1.1.csv
+390,1,390,M,420,Lila1.1.csv
+110,2,110,C,466,Lila1.1.csv
+160,1,160,M,414,Lila1.1.csv
+180,1,180,M,673,Lila1.1.csv
+380,2,380,C,556,Lila1.1.csv
+380,1,380,M,533,Lila1.1.csv
+260,1,260,M,416,Lila1.1.csv
+410,1,410,M,528,Lila1.1.csv
+350,2,350,C,461,Lila1.1.csv
+360,2,360,C,611,Lila1.1.csv
+400,2,400,C,448,Lila1.1.csv
+150,1,150,M,437,Lila1.1.csv
+50,1,50,M,555,sree 1.1.csv
+130,2,130,C,430,sree 1.1.csv
+120,1,120,C,499,sree 1.1.csv
+130,1,130,M,539,sree 1.1.csv
+260,1,260,M,531,sree 1.1.csv
+440,2,440,C,528,sree 1.1.csv
+330,1,330,M,443,sree 1.1.csv
+110,2,110,C,463,sree 1.1.csv
+190,1,190,M,411,sree 1.1.csv
+480,1,480,M,534,sree 1.1.csv
+390,2,390,C,553,sree 1.1.csv
+180,1,180,M,472,sree 1.1.csv
+270,1,270,M,478,sree 1.1.csv
+140,2,140,C,425,sree 1.1.csv
+280,1,280,M,449,sree 1.1.csv
+450,1,450,M,482,sree 1.1.csv
+270,2,270,C,465,sree 1.1.csv
+140,1,140,M,527,sree 1.1.csv
+170,2,170,C,458,sree 1.1.csv
+160,1,160,M,891,sree 1.1.csv
+100,2,100,C,590,sree 1.1.csv
+500,2,500,C,507,sree 1.1.csv
+320,1,320,M,513,sree 1.1.csv
+460,1,460,M,708,sree 1.1.csv
+310,2,310,C,571,sree 1.1.csv
+350,2,350,C,559,sree 1.1.csv
+400,1,400,M,558,sree 1.1.csv
+60,1,60,M,597,sree 1.1.csv
+300,1,300,M,884,sree 1.1.csv
+50,2,50,C,745,sree 1.1.csv
+240,2,240,C,639,sree 1.1.csv
+420,1,420,M,635,sree 1.1.csv
+150,2,150,C,485,sree 1.1.csv
+500,1,500,M,520,sree 1.1.csv
+460,2,460,C,481,sree 1.1.csv
+330,2,330,C,583,sree 1.1.csv
+200,2,200,C,490,sree 1.1.csv
+360,2,360,C,514,sree 1.1.csv
+190,2,190,C,544,sree 1.1.csv
+360,1,360,M,513,sree 1.1.csv
+150,1,150,M,411,sree 1.1.csv
+470,1,470,M,504,sree 1.1.csv
+220,2,220,C,478,sree 1.1.csv
+350,1,350,M,666,sree 1.1.csv
+430,1,430,C,513,sree 1.1.csv
+210,1,210,C,638,sree 1.1.csv
+340,1,340,M,665,sree 1.1.csv
+400,2,400,C,478,sree 1.1.csv
+180,2,180,C,625,sree 1.1.csv
+230,1,230,M,573,sree 1.1.csv
+90,1,90,M,731,sree 1.1.csv
+490,1,490,M,637,sree 1.1.csv
+310,1,310,M,634,sree 1.1.csv
+300,2,300,C,458,sree 1.1.csv
+120,2,120,C,446,sree 1.1.csv
+90,2,90,C,449,sree 1.1.csv
+420,2,420,C,480,sree 1.1.csv
+470,2,470,C,444,sree 1.1.csv
+210,2,210,C,504,sree 1.1.csv
+340,2,340,C,447,sree 1.1.csv
+280,2,280,C,431,sree 1.1.csv
+430,2,430,C,438,sree 1.1.csv
+290,1,290,M,427,sree 1.1.csv
+70,2,70,C,536,sree 1.1.csv
+160,2,160,C,430,sree 1.1.csv
+480,2,480,C,500,sree 1.1.csv
+250,2,250,C,489,sree 1.1.csv
+450,2,450,C,480,sree 1.1.csv
+60,2,60,C,613,sree 1.1.csv
+290,2,290,C,615,sree 1.1.csv
+410,2,410,C,603,sree 1.1.csv
+80,1,80,M,410,sree 1.1.csv
+320,2,320,C,615,sree 1.1.csv
+380,2,380,C,457,sree 1.1.csv
+70,1,70,M,673,sree 1.1.csv
+370,1,370,M,553,sree 1.1.csv
+440,1,440,C,632,sree 1.1.csv
+220,1,220,M,596,sree 1.1.csv
+110,1,110,C,550,sree 1.1.csv
+410,1,410,M,1192,sree 1.1.csv
+370,2,370,C,392,sree 1.1.csv
+250,1,250,M,523,sree 1.1.csv
+380,1,380,C,390,sree 1.1.csv
+80,2,80,M,334,sree 1.1.csv
+100,1,100,M,383,sree 1.1.csv
+390,1,390,M,498,sree 1.1.csv
+200,1,200,M,519,sree 1.1.csv
+240,1,240,M,485,sree 1.1.csv
+230,2,230,C,477,sree 1.1.csv
+260,2,260,C,391,sree 1.1.csv
+170,1,170,M,514,sree 1.1.csv
+490,2,490,C,626,sree 1.1.csv
+290,2,290,C,527,sree 1.3.csv
+490,1,490,M,406,sree 1.3.csv
+410,2,410,C,440,sree 1.3.csv
+80,1,80,M,612,sree 1.3.csv
+350,1,350,M,538,sree 1.3.csv
+220,1,220,M,495,sree 1.3.csv
+450,2,450,C,373,sree 1.3.csv
+160,1,160,M,375,sree 1.3.csv
+120,2,120,C,467,sree 1.3.csv
+340,1,340,M,717,sree 1.3.csv
+110,1,110,M,721,sree 1.3.csv
+240,1,240,M,769,sree 1.3.csv
+130,1,130,M,610,sree 1.3.csv
+150,2,150,C,674,sree 1.3.csv
+330,2,330,M,799,sree 1.3.csv
+400,1,400,M,529,sree 1.3.csv
+380,2,380,C,1157,sree 1.3.csv
+400,2,400,C,519,sree 1.3.csv
+70,1,70,M,528,sree 1.3.csv
+250,1,250,C,471,sree 1.3.csv
+370,1,370,C,687,sree 1.3.csv
+260,1,260,C,548,sree 1.3.csv
+170,2,170,C,597,sree 1.3.csv
+300,2,300,C,633,sree 1.3.csv
+210,1,210,M,448,sree 1.3.csv
+50,1,50,M,530,sree 1.3.csv
+80,2,80,C,654,sree 1.3.csv
+310,2,310,C,416,sree 1.3.csv
+210,2,210,C,389,sree 1.3.csv
+420,2,420,C,448,sree 1.3.csv
+370,2,370,C,416,sree 1.3.csv
+100,2,100,C,429,sree 1.3.csv
+290,1,290,M,398,sree 1.3.csv
+70,2,70,C,443,sree 1.3.csv
+500,1,500,M,522,sree 1.3.csv
+360,1,360,M,541,sree 1.3.csv
+480,2,480,C,563,sree 1.3.csv
+380,1,380,M,636,sree 1.3.csv
+270,1,270,M,582,sree 1.3.csv
+430,1,430,M,564,sree 1.3.csv
+460,2,460,C,411,sree 1.3.csv
+160,2,160,C,376,sree 1.3.csv
+140,2,140,C,443,sree 1.3.csv
+300,1,300,M,495,sree 1.3.csv
+470,1,470,M,625,sree 1.3.csv
+310,1,310,M,550,sree 1.3.csv
+230,1,230,M,596,sree 1.3.csv
+140,1,140,M,549,sree 1.3.csv
+440,1,440,M,715,sree 1.3.csv
+440,2,440,C,406,sree 1.3.csv
+110,2,110,C,472,sree 1.3.csv
+360,2,360,C,472,sree 1.3.csv
+90,2,90,C,415,sree 1.3.csv
+150,1,150,M,527,sree 1.3.csv
+320,2,320,C,470,sree 1.3.csv
+420,1,420,M,554,sree 1.3.csv
+280,1,280,M,418,sree 1.3.csv
+450,1,450,M,418,sree 1.3.csv
+390,2,390,C,365,sree 1.3.csv
+270,2,270,C,374,sree 1.3.csv
+170,1,170,M,467,sree 1.3.csv
+460,1,460,C,341,sree 1.3.csv
+430,2,430,C,673,sree 1.3.csv
+190,1,190,C,449,sree 1.3.csv
+220,2,220,M,2,sree 1.3.csv
+330,1,330,M,371,sree 1.3.csv
+410,1,410,M,446,sree 1.3.csv
+390,1,390,M,556,sree 1.3.csv
+120,1,120,M,790,sree 1.3.csv
+490,2,490,C,706,sree 1.3.csv
+60,1,60,M,485,sree 1.3.csv
+240,2,240,C,520,sree 1.3.csv
+340,2,340,C,508,sree 1.3.csv
+470,2,470,C,442,sree 1.3.csv
+480,1,480,M,425,sree 1.3.csv
+500,2,500,C,565,sree 1.3.csv
+90,1,90,M,382,sree 1.3.csv
+50,2,50,C,576,sree 1.3.csv
+200,2,200,C,404,sree 1.3.csv
+250,2,250,C,450,sree 1.3.csv
+230,2,230,C,929,sree 1.3.csv
+200,1,200,M,509,sree 1.3.csv
+280,2,280,C,484,sree 1.3.csv
+190,2,190,C,535,sree 1.3.csv
+320,1,320,M,444,sree 1.3.csv
+60,2,60,C,734,sree 1.3.csv
+350,2,350,C,519,sree 1.3.csv
+180,2,180,C,520,sree 1.3.csv
+180,1,180,M,415,sree 1.3.csv
+260,2,260,C,517,sree 1.3.csv
+130,2,130,C,460,sree 1.3.csv
+100,1,100,M,479,sree 1.3.csv
+450,1,450,M,479,sree 1.2.csv
+390,2,390,C,479,sree 1.2.csv
+170,2,170,C,468,sree 1.2.csv
+120,1,120,M,474,sree 1.2.csv
+80,2,80,C,489,sree 1.2.csv
+460,2,460,C,433,sree 1.2.csv
+70,1,70,M,474,sree 1.2.csv
+290,1,290,M,481,sree 1.2.csv
+410,2,410,C,559,sree 1.2.csv
+130,2,130,C,533,sree 1.2.csv
+60,1,60,M,533,sree 1.2.csv
+400,2,400,C,400,sree 1.2.csv
+360,2,360,C,545,sree 1.2.csv
+50,1,50,M,520,sree 1.2.csv
+400,1,400,M,597,sree 1.2.csv
+490,2,490,C,479,sree 1.2.csv
+90,1,90,M,511,sree 1.2.csv
+220,1,220,M,628,sree 1.2.csv
+150,2,150,C,485,sree 1.2.csv
+260,2,260,C,488,sree 1.2.csv
+190,1,190,M,471,sree 1.2.csv
+350,1,350,M,546,sree 1.2.csv
+50,2,50,C,491,sree 1.2.csv
+220,2,220,C,512,sree 1.2.csv
+100,2,100,C,453,sree 1.2.csv
+470,2,470,C,655,sree 1.2.csv
+430,2,430,C,492,sree 1.2.csv
+90,2,90,M,1195,sree 1.2.csv
+190,2,190,M,1061,sree 1.2.csv
+490,1,490,M,598,sree 1.2.csv
+150,1,150,M,570,sree 1.2.csv
+200,1,200,M,580,sree 1.2.csv
+300,2,300,C,523,sree 1.2.csv
+270,2,270,C,486,sree 1.2.csv
+370,2,370,C,437,sree 1.2.csv
+110,2,110,C,904,sree 1.2.csv
+380,2,380,C,522,sree 1.2.csv
+390,1,390,M,422,sree 1.2.csv
+300,1,300,M,417,sree 1.2.csv
+310,1,310,M,479,sree 1.2.csv
+140,2,140,C,477,sree 1.2.csv
+160,2,160,C,471,sree 1.2.csv
+230,2,230,C,635,sree 1.2.csv
+280,1,280,M,672,sree 1.2.csv
+120,2,120,C,471,sree 1.2.csv
+110,1,110,M,526,sree 1.2.csv
+250,2,250,C,456,sree 1.2.csv
+80,1,80,M,509,sree 1.2.csv
+60,2,60,C,443,sree 1.2.csv
+100,1,100,M,486,sree 1.2.csv
+500,1,500,M,758,sree 1.2.csv
+200,2,200,C,518,sree 1.2.csv
+450,2,450,C,481,sree 1.2.csv
+210,2,210,C,523,sree 1.2.csv
+180,2,180,C,600,sree 1.2.csv
+230,1,230,M,527,sree 1.2.csv
+420,2,420,C,571,sree 1.2.csv
+420,1,420,M,616,sree 1.2.csv
+270,1,270,M,806,sree 1.2.csv
+500,2,500,C,646,sree 1.2.csv
+320,2,320,C,533,sree 1.2.csv
+380,1,380,M,429,sree 1.2.csv
+370,1,370,M,532,sree 1.2.csv
+330,1,330,M,671,sree 1.2.csv
+180,1,180,M,536,sree 1.2.csv
+240,2,240,C,490,sree 1.2.csv
+260,1,260,M,786,sree 1.2.csv
+470,1,470,M,726,sree 1.2.csv
+480,2,480,C,469,sree 1.2.csv
+140,1,140,M,505,sree 1.2.csv
+350,2,350,C,417,sree 1.2.csv
+460,1,460,M,397,sree 1.2.csv
+170,1,170,M,576,sree 1.2.csv
+430,1,430,M,573,sree 1.2.csv
+440,1,440,M,585,sree 1.2.csv
+480,1,480,M,460,sree 1.2.csv
+360,1,360,M,546,sree 1.2.csv
+340,2,340,C,433,sree 1.2.csv
+280,2,280,C,391,sree 1.2.csv
+330,2,330,C,439,sree 1.2.csv
+290,2,290,C,451,sree 1.2.csv
+70,2,70,C,463,sree 1.2.csv
+440,2,440,C,440,sree 1.2.csv
+210,1,210,M,560,sree 1.2.csv
+250,1,250,C,560,sree 1.2.csv
+340,1,340,M,590,sree 1.2.csv
+410,1,410,M,475,sree 1.2.csv
+130,1,130,M,565,sree 1.2.csv
+310,2,310,C,456,sree 1.2.csv
+160,1,160,M,550,sree 1.2.csv
+320,1,320,M,432,sree 1.2.csv
+240,1,240,M,540,sree 1.2.csv
