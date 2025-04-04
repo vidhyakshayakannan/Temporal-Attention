@@ -1,9 +1,10 @@
 import pandas as pd
+import numpy as np
 import glob
 import os
 
 # Directory containing the CSV files
-directory = "/Users/vidhyakshayakannan/Documents/Cognitive Neuroscience Research/Python Experiments/data"  # Update this to your directory path
+directory = "/Users/vidhyakshayakannan/Documents/Temporal-Attention/data" 
 
 # Load all CSV files from all subdirectories
 data_files = glob.glob(os.path.join(directory, '**', '*.csv'), recursive=True)
@@ -18,6 +19,8 @@ for file_path in data_files:
 
     # Read the CSV file
     df = pd.read_csv(file_path)
+    df = df[(df['RT'] >= 199) & (df['RT'] <= 1000)].copy()
+    df = df[(df["Tone"] == 1) & (df["Key"] == "M") | (df["Tone"] == 2) & (df["Key"] == "C")]
 
     # Separate data into in-tune and out-of-tune based on 'Tone'
     in_tune_df = df[df['Tone'] == 1][['Gap', 'RT']]
@@ -29,23 +32,23 @@ for file_path in data_files:
     subject_data[subject]['in_tune'].append(in_tune_df)
     subject_data[subject]['out_of_tune'].append(out_of_tune_df)
 
-# Prepare final combined DataFrame
-final_rows = []
-for subject, data in subject_data.items():
-    in_tune_combined = pd.concat(data['in_tune']).groupby('Gap', as_index=False)['RT'].mean()
-    out_of_tune_combined = pd.concat(data['out_of_tune']).groupby('Gap', as_index=False)['RT'].mean()
+# Prepare final data structure
+subjects = list(subject_data.keys())
+all_gaps = sorted(set(pd.concat([pd.concat(subject_data[subj]['in_tune'] + subject_data[subj]['out_of_tune'])['Gap'] for subj in subjects])))
+
+data_matrix = np.zeros((len(subjects), len(all_gaps), 2))  # Shape: (subjects, gaps, 2 conditions)
+
+gap_to_index = {gap: i for i, gap in enumerate(all_gaps)}
+
+for subj_index, subject in enumerate(subjects):
+    in_tune_combined = pd.concat(subject_data[subject]['in_tune']).groupby('Gap', as_index=False)['RT'].mean()
+    out_of_tune_combined = pd.concat(subject_data[subject]['out_of_tune']).groupby('Gap', as_index=False)['RT'].mean()
     
-    # Merge in-tune and out-of-tune data on 'Gap'
-    merged_df = pd.merge(in_tune_combined, out_of_tune_combined, on='Gap', how='outer', suffixes=('_in_tune', '_out_of_tune'))
-    merged_df['Subject'] = subject
-    final_rows.append(merged_df)
+    for _, row in in_tune_combined.iterrows():
+        data_matrix[subj_index, gap_to_index[row['Gap']], 0] = row['RT']
+    for _, row in out_of_tune_combined.iterrows():
+        data_matrix[subj_index, gap_to_index[row['Gap']], 1] = row['RT']
 
-# Concatenate all subjects' data
-final_df = pd.concat(final_rows)[['Subject', 'Gap', 'RT_in_tune', 'RT_out_of_tune']]
-
-# Save the result to a new CSV file
-output_path = os.path.join(directory, "combined_subjects_averaged.csv")
-final_df.to_csv(output_path, index=False)
-
-print(f"Saved combined averaged data for all subjects to {output_path}")
-print(final_df)
+# Print 3D array
+print("Final 3D NumPy Array Shape:", data_matrix.shape)
+print(data_matrix)
